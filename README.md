@@ -1,6 +1,7 @@
 # Course - Udemy
 [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/)\
-[Java Data Types](https://www.javatpoint.com/java-data-types)
+[Java Data Types](https://www.javatpoint.com/java-data-types)\
+[Java Type Conversion](https://www.geeksforgeeks.org/type-conversion-java-examples/)
 # Google
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 # Tools
