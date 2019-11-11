@@ -1,4 +1,4 @@
-# Resource
+# Java
 [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/)\
 [Java Data Types](https://www.javatpoint.com/java-data-types)\
 [Java Type Conversion](https://www.geeksforgeeks.org/type-conversion-java-examples/)\
@@ -15,3 +15,5 @@
 [Configure IntelliJ for Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15400982#announcements)\
 [Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
+# Documentation
+[JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
