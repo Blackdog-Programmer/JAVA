@@ -10,4 +10,5 @@
 # Tools
 [IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
 [Configure IntelliJ for Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15400982#announcements)\
-[Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
+[Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
+[DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
