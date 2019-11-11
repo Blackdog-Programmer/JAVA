@@ -16,5 +16,5 @@
 [Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 # Documentation
-[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
 [JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
