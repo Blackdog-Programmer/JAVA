@@ -6,7 +6,7 @@
 [What is Java Package](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)\
 [Unicode Table](https://unicode-table.com/en/#ipa-extensions)\
 [List of Java Keywords](https://en.wikipedia.org/wiki/List_of_Java_keywords)\
-[For Each Loop](https://www.geeksforgeeks.org/for-each-loop-in-java/)\
+[For Each Loop](https://www.geeksforgeeks.org/for-each-loop-in-java/)
 # OOP
 [Wrapper Class](https://www.geeksforgeeks.org/wrapper-classes-java/)
 [Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
