@@ -9,7 +9,9 @@
 [Wrapper Class](https://www.geeksforgeeks.org/wrapper-classes-java/)
 # OOP
 [Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
-[Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)
+[Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
+[Copy Consturctor](
+[Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
 # Tools
 [IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
 [Configure IntelliJ for Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15400982#announcements)\
