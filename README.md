@@ -16,6 +16,7 @@
 [Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 # Documentation
+[Intelli J Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
 [JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)\
 [Garbage Collections](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
