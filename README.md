@@ -10,7 +10,7 @@
 # OOP
 [Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
 [Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
-[Copy Consturctor](
+[Copy Consturctor]\
 [Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
 # Tools
 [IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
