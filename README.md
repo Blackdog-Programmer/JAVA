@@ -1,7 +1,7 @@
 # Java Style and IntelliJ
 [Intelli J Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
-[JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)\\
+[JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
 
 # Software Tools Setup
 [IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
