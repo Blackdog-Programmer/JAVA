@@ -51,6 +51,7 @@
 [Wrapper Class - Autoboxing and Unboxing](https://www.geeksforgeeks.org/autoboxing-unboxing-java/)\
 [Java Linked List](https://www.geeksforgeeks.org/linked-list-in-java/)
 # 09_Inner_AbstractClasses_Interfaces
+[Java Interface](https://www.geeksforgeeks.org/interfaces-in-java/)
 # 10_Java_Generics
 # 11_NamingConventions_Packages_Static_Final_Keywords
 # 12_Java_Collections
