@@ -1,14 +1,14 @@
-# Java Style and IntelliJ
-[Intelli J Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
+# Java Style Guide and IntelliJ Tips
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
-[JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
+[Intelli J Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
 
 # Software Tools Setup
 [IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
 [Configure IntelliJ for Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15400982#announcements)\
 [Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
-# 03_First_Steps
+# First Steps
+[JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
 # 04_Java_Tutorial_Expression_Statments_CodeBlocks_Methods
 # 05_Control_Flow_Statements
 # 06_OOP_Part1_Classes_Constructos_Inheritance
