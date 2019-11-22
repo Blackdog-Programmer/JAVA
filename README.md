@@ -1,6 +1,6 @@
 # Java Style Guide and IntelliJ Tips
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
-[Intelli J Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
+[Intelli J Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
 
 # Software Tools Setup
 [IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
