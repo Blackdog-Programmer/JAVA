@@ -34,3 +34,5 @@
 ![Overloading_vs_Overriding.png](https://github.com/Blackdog-Programmer/JAVA/blob/master/References/Overloading_vs_Overriding.png)
 
 # 8_Arrays_Java_inbuitls_Lists_Autoboxing_Unboxing
+[Arrays in Java](https://www.geeksforgeeks.org/arrays-in-java/)\
+[Does Java pass by reference or pass by value?](https://www.javaworld.com/article/2077424/learn-java-does-java-pass-by-reference-or-pass-by-value.html)
