@@ -24,7 +24,7 @@
 # 06_OOP_Part1_Classes_Constructos_Inheritance
 # 07_OOP_Part2_Composition_Encapsulation_Polymorphism
 # 08_Arrays_Java_inbuitls_Lists_Autoboxing_Unboxing
-[Java Arrays SE12](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Arrays.html)\
+[Java Arrays SE12](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Arrays.html), [Arrays in Java](https://www.geeksforgeeks.org/arrays-in-java/)\
 [Understanding Array IndexOutofbounds Exception in Java](https://www.geeksforgeeks.org/understanding-array-indexoutofbounds-exception-in-java/)\
 [Does Java pass by reference or pass by value?](https://www.javaworld.com/article/2077424/learn-java-does-java-pass-by-reference-or-pass-by-value.html)\
 [Java List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)\
