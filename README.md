@@ -21,6 +21,7 @@
 
 # 04_Java_Tutorial_Expression_Statments_CodeBlocks_Methods
 # 05_Control_Flow_Statements
+[Switch Statement in Java](https://www.geeksforgeeks.org/switch-statement-in-java/)
 # 06_OOP_Part1_Classes_Constructos_Inheritance
 # 07_OOP_Part2_Composition_Encapsulation_Polymorphism
 # 08_Arrays_Java_inbuitls_Lists_Autoboxing_Unboxing
