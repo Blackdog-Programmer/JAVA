@@ -19,8 +19,8 @@
 [For Each Loop](https://www.geeksforgeeks.org/for-each-loop-in-java/)
 [Garbage Collections](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
-# 04_Java_Tutorial_Expression_Statments_CodeBlocks_Methods
-# 05_Control_Flow_Statements
+# 04 Java Expression,CodeBlocks,Methods
+# 05_Control Flow
 [Switch Statement in Java](https://www.geeksforgeeks.org/switch-statement-in-java/)
 # 06_OOP_Part1_Classes_Constructos_Inheritance
 # 07_OOP_Part2_Composition_Encapsulation_Polymorphism
