@@ -23,7 +23,7 @@
 [Expressions, Statements, and Blocks](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html)
 
 # 05_Control Flow
-[Switch Statement in Java](https://www.geeksforgeeks.org/switch-statement-in-java/)
+[Decision Making in Java (if, if-else, switch, break, continue, jump](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)
 
 # 06_OOP_Part1_Classes_Constructos_Inheritance
 
