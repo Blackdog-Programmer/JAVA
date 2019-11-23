@@ -28,7 +28,7 @@
 [Understanding Array IndexOutofbounds Exception in Java](https://www.geeksforgeeks.org/understanding-array-indexoutofbounds-exception-in-java/)\
 [Does Java pass by reference or pass by value?](https://www.javaworld.com/article/2077424/learn-java-does-java-pass-by-reference-or-pass-by-value.html)\
 [Java List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)\
-[Java ArrrayList](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html)\
+[Java ArrrayList](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html), [ArrayList in Java](https://www.geeksforgeeks.org/arraylist-in-java/)\
 [Wrapper Class - Autoboxing and Unboxing](https://www.geeksforgeeks.org/autoboxing-unboxing-java/)\
 [Java Linked List](https://www.geeksforgeeks.org/linked-list-in-java/)
 # 09_Inner_AbstractClasses_Interfaces
