@@ -24,7 +24,8 @@
 
 # 05_Control Flow
 [Decision Making in Java (if, if-else, switch, break, continue, jump)](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)\
-[Loops in Java](https://www.geeksforgeeks.org/loops-in-java/)
+[Loops in Java](https://www.geeksforgeeks.org/loops-in-java/)\
+[Scanner Class in Java](https://www.geeksforgeeks.org/scanner-class-in-java/)
 
 # 06_OOP_Part1_Classes_Constructos_Inheritance
 
