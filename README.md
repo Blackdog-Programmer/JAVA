@@ -51,7 +51,7 @@
 [Wrapper Class - Autoboxing and Unboxing](https://www.geeksforgeeks.org/autoboxing-unboxing-java/)\
 [Java Linked List](https://www.geeksforgeeks.org/linked-list-in-java/)
 
-# 09_Inner AbstractClasses Interfaces
+# 09 Inner AbstractClasses Interfaces
 [Java Interface](https://www.geeksforgeeks.org/interfaces-in-java/)\
 [Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces?](https://stackoverflow.com/questions/8531292/why-to-use-interfaces-multiple-inheritance-vs-interfaces-benefits-of-interface)
 
