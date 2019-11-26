@@ -30,10 +30,10 @@
 
 # 06 OOP Part1 Classes/Constructos/Inheritance
 [Classes and Objects in Java](https://www.geeksforgeeks.org/classes-objects-java/)\
-[Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/)
+[Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/)\
 [Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
-[Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
 [Copy Consturctor](https://www.geeksforgeeks.org/copy-constructor-in-java/)\
+[Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
 [Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
 
 # 07 OOP Part2 Composition/Encapsulation/Polymorphism
