@@ -31,9 +31,8 @@
 # 06 OOP Part1 Classes/Constructos/Inheritance
 [Classes and Objects in Java](https://www.geeksforgeeks.org/classes-objects-java/)\
 [Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/)
-[Wrapper Class](https://www.geeksforgeeks.org/wrapper-classes-java/)
-[Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
 [Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
+[Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
 [Copy Consturctor](https://www.geeksforgeeks.org/copy-constructor-in-java/)\
 [Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
 
