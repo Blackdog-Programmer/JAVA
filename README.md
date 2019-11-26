@@ -22,17 +22,27 @@
 # 04 Java Expression,CodeBlocks,Methods
 [Expressions, Statements, and Blocks](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html)
 
-# 05_Control Flow
+# 05 Control Flow
 [Decision Making in Java (if, if-else, switch, break, continue, jump)](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)\
 [Loops in Java](https://www.geeksforgeeks.org/loops-in-java/)\
 [Java Scanner Oracle SE](https://docs.oracle.com/javase/10/docs/api/java/util/Scanner.html), [Scanner Class in Java](https://www.geeksforgeeks.org/scanner-class-in-java/)\
 [JAVA Math Oracle SE](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html)
 
-# 06_OOP_Part1_Classes_Constructos_Inheritance
+# 06 OOP Part1 Classes/Constructos/Inheritance
+[Classes and Objects in Java](https://www.geeksforgeeks.org/classes-objects-java/)\
+[Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/)
+[Wrapper Class](https://www.geeksforgeeks.org/wrapper-classes-java/)
+[Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
+[Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
+[Copy Consturctor](https://www.geeksforgeeks.org/copy-constructor-in-java/)\
+[Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
 
-# 07_OOP_Part2_Composition_Encapsulation_Polymorphism
+# 07 OOP Part2 Composition/Encapsulation/Polymorphism
+[Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
+[Association, Composition and Aggregation in Java](https://www.geeksforgeeks.org/association-composition-aggregation-java/)\
+[Polymorphism in Java](https://www.geeksforgeeks.org/polymorphism-in-java/)
 
-# 08_Arrays_Java_inbuitls_Lists_Autoboxing_Unboxing
+# 08 Arrays Java inbuitls Lists Autoboxing-Unboxing
 [Java Arrays SE12](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Arrays.html), [Arrays in Java](https://www.geeksforgeeks.org/arrays-in-java/)\
 [Understanding Array IndexOutofbounds Exception in Java](https://www.geeksforgeeks.org/understanding-array-indexoutofbounds-exception-in-java/)\
 [Does Java pass by reference or pass by value?](https://www.javaworld.com/article/2077424/learn-java-does-java-pass-by-reference-or-pass-by-value.html)\
@@ -41,46 +51,37 @@
 [Wrapper Class - Autoboxing and Unboxing](https://www.geeksforgeeks.org/autoboxing-unboxing-java/)\
 [Java Linked List](https://www.geeksforgeeks.org/linked-list-in-java/)
 
-# 09_Inner_AbstractClasses_Interfaces
+# 09_Inner AbstractClasses Interfaces
 [Java Interface](https://www.geeksforgeeks.org/interfaces-in-java/)\
 [Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces?](https://stackoverflow.com/questions/8531292/why-to-use-interfaces-multiple-inheritance-vs-interfaces-benefits-of-interface)
 
-# 10_Java_Generics
-# 11_NamingConventions_Packages_Static_Final_Keywords
+# 10 Java Generics
 
-# 12_Java_Collections
+# 11 NamingConventions Packages Static Final Keywords
 
-# 13_Java_FX
+# 12 Java Collections
 
-# 14_Basic_Input_Output_Java_util
+# 13 Java FX
 
-# 15_Concurrency
+# 14 Basic Input Output Java util
 
-# 16_Lamda_Expressions
+# 15 Concurrency
 
-# 17_Regular_Expressions
+# 16 Lamda Expressions
+
+# 17 Regular Expressions
 
 # 18_Debugging_UnitTesting
 
-# 19_Databases
+# 19 Databases
 
-# 20_Java_Network_Programming
+# 20 Java Network Programming
 
-# 21_Java9_Module_System
+# 21 Java9 Module System
 
-# 22_Migrating_Java_Projects_to_Java9
+# 22 Migrating Java Projects to Java9
 
-# 23_Course_Remaster_In_Progress
-
-# OOP
-[Wrapper Class](https://www.geeksforgeeks.org/wrapper-classes-java/)
-[Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
-[Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
-[Copy Consturctor](https://www.geeksforgeeks.org/copy-constructor-in-java/)\
-[Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
-[Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
-[Association, Composition and Aggregation in Java](https://www.geeksforgeeks.org/association-composition-aggregation-java/)\
-[Polymorphism in Java](https://www.geeksforgeeks.org/polymorphism-in-java/)
+# 23 Course Remaster In Progress
 
 # Info Graphics
 ![Overloading_vs_Overriding.png](https://github.com/Blackdog-Programmer/JAVA/blob/master/References/Overloading_vs_Overriding.png)
