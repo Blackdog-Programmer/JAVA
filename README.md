@@ -44,8 +44,8 @@
 [Static methods vs Instance methods in Java](https://www.geeksforgeeks.org/static-methods-vs-instance-methods-java/)
 
 # 07 OOP Part2 Composition/Encapsulation/Polymorphism
-[Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
 [Association, Composition and Aggregation in Java](https://www.geeksforgeeks.org/association-composition-aggregation-java/)\
+[Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
 [Polymorphism in Java](https://www.geeksforgeeks.org/polymorphism-in-java/)
 
 # 08 Arrays Java inbuitls Lists Autoboxing-Unboxing
