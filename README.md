@@ -40,6 +40,8 @@
 [Difference between super() and this() in java](https://www.geeksforgeeks.org/difference-super-java/)\
 [Difference between Method Overloading and Method Overriding in Java](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/)
 ![Overloading_vs_Overriding.png](https://github.com/Blackdog-Programmer/JAVA/blob/master/References/Overloading_vs_Overriding.png)
+[Difference between static and non-static variables in Java](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/)\
+[Static methods vs Instance methods in Java](https://www.geeksforgeeks.org/static-methods-vs-instance-methods-java/)
 
 # 07 OOP Part2 Composition/Encapsulation/Polymorphism
 [Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
