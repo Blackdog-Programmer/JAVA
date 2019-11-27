@@ -35,7 +35,9 @@
 [Default Constructor](https://www.geeksforgeeks.org/g-fact-50/)\
 [Copy Consturctor](https://www.geeksforgeeks.org/copy-constructor-in-java/)\
 [Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
-[Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)
+[The difference between Classes, Objects, and Instances](https://stackoverflow.com/questions/1215881/the-difference-between-classes-objects-and-instances)\
+[Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)\
+[Difference between super() and this() in java](https://www.geeksforgeeks.org/difference-super-java/)
 
 # 07 OOP Part2 Composition/Encapsulation/Polymorphism
 [Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
