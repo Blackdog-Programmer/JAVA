@@ -37,7 +37,9 @@
 [Class Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html#default-package-access-modifier)\
 [The difference between Classes, Objects, and Instances](https://stackoverflow.com/questions/1215881/the-difference-between-classes-objects-and-instances)\
 [Inheritacne](https://www.geeksforgeeks.org/inheritance-in-java/)\
-[Difference between super() and this() in java](https://www.geeksforgeeks.org/difference-super-java/)
+[Difference between super() and this() in java](https://www.geeksforgeeks.org/difference-super-java/)\
+[Difference between Method Overloading and Method Overriding in Java](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/)
+![Overloading_vs_Overriding.png](https://github.com/Blackdog-Programmer/JAVA/blob/master/References/Overloading_vs_Overriding.png)
 
 # 07 OOP Part2 Composition/Encapsulation/Polymorphism
 [Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)\
@@ -84,6 +86,3 @@
 # 22 Migrating Java Projects to Java9
 
 # 23 Course Remaster In Progress
-
-# Info Graphics
-![Overloading_vs_Overriding.png](https://github.com/Blackdog-Programmer/JAVA/blob/master/References/Overloading_vs_Overriding.png)
