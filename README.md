@@ -11,6 +11,7 @@
 
 # First Steps
 [Java Data Types](https://www.javatpoint.com/java-data-types)\
+[Java String Oracle SE12](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/lang/String.html)\
 [Java Type Conversion](https://www.geeksforgeeks.org/type-conversion-java-examples/)\
 [Java Constant 'final'](https://www.tutorialspoint.com/what-is-a-constant-and-how-to-define-constants-in-java)\
 [What is Java Package](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)\
