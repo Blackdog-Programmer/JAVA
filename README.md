@@ -59,7 +59,10 @@
 
 # 09 Inner AbstractClasses Interfaces
 [Java Interface](https://www.geeksforgeeks.org/interfaces-in-java/)\
-[Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces?](https://stackoverflow.com/questions/8531292/why-to-use-interfaces-multiple-inheritance-vs-interfaces-benefits-of-interface)
+[Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces?](https://stackoverflow.com/questions/8531292/why-to-use-interfaces-multiple-inheritance-vs-interfaces-benefits-of-interface)\
+[What is Interface in Java with Example](https://www.guru99.com/java-interface.html)\
+[Inner class in java](https://www.geeksforgeeks.org/inner-class-java/)\
+[Anonymous Inner Class in Java](https://www.geeksforgeeks.org/anonymous-inner-class-java/)
 
 # 10 Java Generics
 
