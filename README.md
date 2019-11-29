@@ -62,9 +62,11 @@
 [Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces?](https://stackoverflow.com/questions/8531292/why-to-use-interfaces-multiple-inheritance-vs-interfaces-benefits-of-interface)\
 [What is Interface in Java with Example](https://www.guru99.com/java-interface.html)\
 [Inner class in java](https://www.geeksforgeeks.org/inner-class-java/)\
-[Anonymous Inner Class in Java](https://www.geeksforgeeks.org/anonymous-inner-class-java/)
+[Anonymous Inner Class in Java](https://www.geeksforgeeks.org/anonymous-inner-class-java/)\
+[Abstract Classes in Java](https://www.geeksforgeeks.org/abstract-classes-in-java/)
 
 # 10 Java Generics
+[Generics in Java](https://www.geeksforgeeks.org/generics-in-java/)
 
 # 11 NamingConventions Packages Static Final Keywords
 
