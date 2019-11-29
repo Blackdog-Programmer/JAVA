@@ -73,7 +73,9 @@
 [Packages In Java](https://www.geeksforgeeks.org/packages-in-java/)\
 [Access Modifiers in Java](https://www.geeksforgeeks.org/access-modifiers-java/)\
 ![Java Access Modifier](https://github.com/Blackdog-Programmer/JAVA/blob/master/References/Java_Access_Modifiers.png)\
-[Jar files in Java](https://www.geeksforgeeks.org/jar-files-java/)
+[Jar files in Java](https://www.geeksforgeeks.org/jar-files-java/)\
+[static keyword in java](https://www.geeksforgeeks.org/static-keyword-java/)\
+[final keyword in java](https://www.geeksforgeeks.org/final-keyword-java/)
 
 # 12 Java Collections
 
