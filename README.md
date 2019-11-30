@@ -2,6 +2,8 @@
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
 [Java® Platform, Standard Edition & Java Development Kit
 Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)\
+[Java® Platform, Standard Edition & Java Development Kit
+Version 13 API Specification](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)\
 [JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
 
 # Software Tools Setup
