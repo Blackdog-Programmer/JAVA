@@ -1,6 +1,7 @@
 # Java Reference
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
-[Java® Platform, Standard Edition & Java Development Kit Version 13 API Specification](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)\
+[Java® Platform, Standard Edition & Java Development Kit
+Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)\
 [JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
 
 # Software Tools Setup
@@ -79,6 +80,7 @@
 
 # 12 Java Collections
 
+[Collections in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
 # 13 Java FX
 
 # 14 Basic Input Output Java util
