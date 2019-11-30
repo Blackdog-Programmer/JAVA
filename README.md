@@ -81,8 +81,9 @@ Version 13 API Specification](https://docs.oracle.com/en/java/javase/13/docs/api
 [final keyword in java](https://www.geeksforgeeks.org/final-keyword-java/)
 
 # 12 Java Collections
-
+[Class Collections](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html)
 [Collections in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
+
 # 13 Java FX
 
 # 14 Basic Input Output Java util
