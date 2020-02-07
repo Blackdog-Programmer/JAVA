@@ -4,7 +4,7 @@
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
   <li><a href="https://www.geeksforgeeks.org/category/java/">Java Recent Articles</a></li>
-  <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Code</a></li>
+  <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
 </ul>
 
 ## 1. Tools
