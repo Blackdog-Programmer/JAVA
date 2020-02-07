@@ -18,7 +18,9 @@
 </ul>
 
 ## [2. Java Overview](https://www.geeksforgeeks.org/java/)
-
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a></li>
+</ul>
 
 ## 3. Basics
 
