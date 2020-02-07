@@ -3,6 +3,7 @@
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
+  <li><a href="https://www.geeksforgeeks.org/category/java/">Java Recent Articles</a></li>
 </ul>
 
 ## 1. Tools
@@ -17,26 +18,63 @@
 
 ## [2. Java Overview](https://www.geeksforgeeks.org/java/)
 
-## 2. Java Overview
 
-## 2. Java Overview
-## 2. Java Overview
+## 3. Basics
 
-## 2. Java Overview
 
-## 2. Java Overview
+## 00. Operators
 
-## 2. Java Overview
-## 2. Java Overview
-## 2. Java Overview
 
-## 2. Java Overview
-## 2. Java Overview
+## 00. Input and Output
 
-## 2. Java Overview
-## 2. Java Overview
 
-## 2. Java Overview
+## 00. Packages
+
+
+## 00. Strings
+
+
+## 00. Arrays
+
+
+## 00. OOP Concepts
+
+
+## 00. Constructors
+
+
+## 00. Methods
+
+
+## 00. Inheritance
+
+
+## 00. Important Keywords
+
+
+## 00. Interfaces and Abstract Classes
+
+
+## 00. Exception Handling
+
+
+## 00. Collections
+
+
+## 00. File Handling
+
+
+## 00. Garbage Collection
+
+
+## 00. Wrapper Class
+
+
+## 00. Multi-Threading
+
+
+
+
 
 ## First Steps
 [Java Data Types](https://www.javatpoint.com/java-data-types)\
