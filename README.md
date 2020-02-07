@@ -1,13 +1,20 @@
 ## 0. References
-[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
-[Java® Platform, Standard Edition & Java Development Kit
-Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)\
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
+  <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
+  <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
+</ul>
 
 ## 1. Tools
-[IntelliJ Eductation IDE](https://www.jetbrains.com/education/download/#section=idea)\
-[IntelliJ Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
-[Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
-[DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
+<ul>
+  <li><a href="https://www.jetbrains.com/education/download/#section=idea">IntelliJ Eductation IDE</a></li>
+  <li><a href="https://www.eclipse.org/getting_started/content/eclipse-ide-keybindings.pdf">Eclipse IDE Keybindings</a></li>
+  <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
+  <li><a href="https://www.eclipse.org/downloads/packages/">Eclipse IDE for Enterprise Java Developers</a></li>
+  <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
+  <li><a href="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html">Amazon Corretto JDK11</a></li>  
+  <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
+</ul>
 
 ## First Steps
 [Java Data Types](https://www.javatpoint.com/java-data-types)\
