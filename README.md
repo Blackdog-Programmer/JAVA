@@ -15,6 +15,29 @@
   <li><a href="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html">Amazon Corretto JDK 1</a></li>  
 </ul>
 
+## [2. Java Overview](https://www.geeksforgeeks.org/java/)
+
+## 2. Java Overview
+
+## 2. Java Overview
+## 2. Java Overview
+
+## 2. Java Overview
+
+## 2. Java Overview
+
+## 2. Java Overview
+## 2. Java Overview
+## 2. Java Overview
+
+## 2. Java Overview
+## 2. Java Overview
+
+## 2. Java Overview
+## 2. Java Overview
+
+## 2. Java Overview
+
 ## First Steps
 [Java Data Types](https://www.javatpoint.com/java-data-types)\
 [Java String Oracle SE12](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/lang/String.html)\
