@@ -1,15 +1,11 @@
-## Java Reference
+## 0. References
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)\
 [Java® Platform, Standard Edition & Java Development Kit
 Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)\
-[Java® Platform, Standard Edition & Java Development Kit
-Version 13 API Specification](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)\
-[JDK 13 Docs](https://docs.oracle.com/en/java/javase/13/)
 
-## Software Tools Setup
-[IntelliJ Community Free Edition](https://www.jetbrains.com/idea/download/#section=windows)\
+## 1. Tools
+[IntelliJ Eductation IDE](https://www.jetbrains.com/education/download/#section=idea)\
 [IntelliJ Shortcut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)\
-[Configure IntelliJ for Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15400982#announcements)\
 [Amazon Corretto JDK11](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)\
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 
