@@ -11,9 +11,8 @@
   <li><a href="https://www.eclipse.org/getting_started/content/eclipse-ide-keybindings.pdf">Eclipse IDE Keybindings</a></li>
   <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
   <li><a href="https://www.eclipse.org/downloads/packages/">Eclipse IDE for Enterprise Java Developers</a></li>
-  <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
-  <li><a href="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html">Amazon Corretto JDK11</a></li>  
-  <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
+  <li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">Java SE Development Kit 11</a></li>
+  <li><a href="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html">Amazon Corretto JDK 1</a></li>  
 </ul>
 
 ## First Steps
