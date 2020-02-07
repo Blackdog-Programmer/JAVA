@@ -19,7 +19,13 @@
 
 ## [2. Java Overview](https://www.geeksforgeeks.org/java/)
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
+    <ol>
+      <li>JDK(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</li>
+      <li></li>
+      <li></li>
+    </ol>
+  </li>
 </ul>
 
 ## 3. Basics
