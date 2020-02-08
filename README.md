@@ -50,6 +50,15 @@
 
 
 ## [4. Packages](https://www.geeksforgeeks.org/packages-in-java/)
+<p>
+  <ul>
+    <li>Preventing naming conflicts. For example there can be two classes with name Employee in two packages, college.staff.cse.Employee and college.staff.ee.Employee</li>
+    <li>Making searching/locating and usage of classes, interfaces, enumerations and annotations easier
+    <li>Providing controlled access: protected and default have package level access control. A protected member is accessible by classes in the same package and its subclasses. A default member (without any access specifier) is accessible by classes in the same package only.</li>
+    <li>Packages can be considered as data encapsulation (or data-hiding).</li>
+</p>
+
+
 
 ## 00. Input and Output
 
