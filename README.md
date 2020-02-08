@@ -39,7 +39,7 @@
   
   <li><a href="https://www.geeksforgeeks.org/jvm-shutdown-hook-java/">JVM Shutdown Hook in Java</a></li>
   
-  <li><a href="https://www.geeksforgeeks.org/main-method-compulsory-java/">Is main method compulsory in Java?</a></li>
+  <li><a href="https://www.geeksforgeeks.org/main-method-compulsory-java/">main method is mendatory in Java</a></li>
 </ul>
 
 
