@@ -5,6 +5,7 @@
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
   <li><a href="https://www.geeksforgeeks.org/category/java/">Java Recent Articles</a></li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
+  <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
 </ul>
 
 ## 1. Tools
