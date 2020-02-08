@@ -21,11 +21,14 @@
 <ul>
   <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
     <ol>
-      <li>JDK(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</li>
-      <li></li>
-      <li></li>
+      <li><strong>JDK</strong>(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</li>
+      <li><strong>JRE</strong>(Java Runtime Environment) : JRE contains the parts of the Java libraries required to run Java programs and is intended for end users. JRE can be view as a subset of JDK.</li>
+      <li><strong>JVM</strong>: JVM (Java Virtual Machine) is an abstract machine. It is a specification that provides runtime environment in which java bytecode can be executed. JVMs are available for many hardware and software platforms. 
+</li>
     </ol>
   </li>
+  
+  <li><a href="https://google.github.io/styleguide/javaguide.html#s5-naming">Naming Convection - Google Style Guide</a></li>
 </ul>
 
 ## 3. Basics
