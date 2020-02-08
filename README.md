@@ -8,6 +8,7 @@
   <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
 </ul>
 
+
 ## 1. Tools
 <ul>
   <li><a href="https://www.eclipse.org/getting_started/content/eclipse-ide-keybindings.pdf">Eclipse IDE Keybindings</a></li>
@@ -16,6 +17,7 @@
   <li><a href="https://www.jetbrains.com/education/download/#section=idea">IntelliJ Eductation IDE</a></li>
   <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
 </ul>
+
 
 ## [2. Java Overview](https://www.geeksforgeeks.org/java/)
 <ul>
@@ -38,6 +40,7 @@
   <li><a href="https://www.geeksforgeeks.org/jvm-shutdown-hook-java/">JVM Shutdown Hook in Java</a></li>
 </ul>
 
+
 ## 3. Basics
 <ul>
   <li><a href="https://www.geeksforgeeks.org/data-types-in-java/">Java is statically typed and also a strongly typed language</a></li> 
@@ -46,18 +49,16 @@
     <li><a href="https://www.geeksforgeeks.org/interesting-facts-about-null-in-java/">Interesting facts about null in Java</a></li>
 </ul>
 
+
 ## 00. Operators
 
 
 ## [4. Packages](https://www.geeksforgeeks.org/packages-in-java/)
-<p>
-  <ul>
-    <li>Preventing naming conflicts. For example there can be two classes with name Employee in two packages, college.staff.cse.Employee and college.staff.ee.Employee</li>
-    <li>Making searching/locating and usage of classes, interfaces, enumerations and annotations easier
-    <li>Providing controlled access: protected and default have package level access control. A protected member is accessible by classes in the same package and its subclasses. A default member (without any access specifier) is accessible by classes in the same package only.</li>
-    <li>Packages can be considered as data encapsulation (or data-hiding).</li>
-</p>
-
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/java-io-packag/">java.io package</a></li>
+  <li><a href="https://www.geeksforgeeks.org/java-lang-package-java/">java.lang package</a></li>
+  <li><a href="https://www.geeksforgeeks.org/java-util-package-java/">java.util package</a></li>
+</ul>
 
 
 ## 00. Input and Output
