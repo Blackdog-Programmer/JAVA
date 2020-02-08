@@ -43,6 +43,7 @@
 <ul>
   <li><a href="https://www.geeksforgeeks.org/data-types-in-java/">Java is statically typed and also a strongly typed language</a></li> 
   <li><a href="https://www.geeksforgeeks.org/enum-in-java/">enum in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/using-_-underscore-variable-name-java/">Using _ (underscore) as variable name</a></li>
 </ul>
 
 ## 00. Operators
