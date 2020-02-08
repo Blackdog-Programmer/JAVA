@@ -59,7 +59,7 @@
   <li><a href="https://www.geeksforgeeks.org/important-keywords-java/">Important Keywords in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/">final, finally and finalize in Java</a></li>
-  <p>Application of finally block: So basically the use of finally block is resource deallocation. Means all the resources such as Network Connections, Database Connections</p>
+  <p>Application of <strong>finally block</strong>: So basically the use of finally block is resource deallocation. Means all the resources such as Network Connections, Database Connections</p>
   
   <li><a href="https://www.geeksforgeeks.org/transient-keyword-java/">transient keyword in Java</a></li>
   
