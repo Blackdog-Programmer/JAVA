@@ -58,6 +58,7 @@
 ## [4. Packages](https://www.geeksforgeeks.org/packages-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-lang-package-java/">java.lang package</a></li>
+  <p>Provides classes that are fundamental to the design of the Java programming language. The most important classes are Object, which is the root of the class hierarchy, and Class, instances of which represent classes at run time.</p>
   
   <li><a href="https://www.geeksforgeeks.org/java-io-packag/">java.io package</a></li>
     <p>This package provides for system input and output through data streams, serialization and the file system. Unless otherwise noted, passing a null argument to a constructor or method in any class or interface in this package will cause a NullPointerException to be thrown.</p>
