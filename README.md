@@ -55,6 +55,11 @@
 ## 3. Importent Keywords
 <ul>
   <li><a href="https://www.geeksforgeeks.org/list-of-all-java-keywords/">List of all Java Keywords</a></li>
+  <li><a href="https://www.geeksforgeeks.org/important-keywords-java/">Important Keywords in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/">final, finally and finalize in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/transient-keyword-java/">transient keyword in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/volatile-keyword-in-java/">volatile keyword in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/strictfp-keyword-java/">strictfp keyword in java</a></li>
 </ul>
 
 ## [4. Packages](https://www.geeksforgeeks.org/packages-in-java/)
