@@ -40,7 +40,9 @@
 </ul>
 
 ## 3. Basics
-
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/data-types-in-java/">Java is statically typed and also a strongly typed language</a></li> 
+</ul>
 
 ## 00. Operators
 
