@@ -58,7 +58,10 @@
 ## [4. Packages](https://www.geeksforgeeks.org/packages-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-lang-package-java/">java.lang package</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/java-io-packag/">java.io package</a></li>
+    <p>This package provides for system input and output through data streams, serialization and the file system. Unless otherwise noted, passing a null argument to a constructor or method in any class or interface in this package will cause a NullPointerException to be thrown.</p>
+  
   <li><a href="https://www.geeksforgeeks.org/java-util-package-java/">java.util package</a></li>
 </ul>
 
