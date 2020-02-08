@@ -64,6 +64,7 @@
     <p>This package provides for system input and output through data streams, serialization and the file system. Unless otherwise noted, passing a null argument to a constructor or method in any class or interface in this package will cause a NullPointerException to be thrown.</p>
   
   <li><a href="https://www.geeksforgeeks.org/java-util-package-java/">java.util package</a></li>
+  <p>It contains the collections framework, legacy collection classes, event model, date and time facilities, internationalization, and miscellaneous utility classes (a string tokenizer, a random-number generator, and a bit array).</p>
 </ul>
 
 
