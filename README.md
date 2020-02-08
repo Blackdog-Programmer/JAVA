@@ -27,6 +27,8 @@
 </li>
     </ol>
   </li>
+  
+  <li><a href="https://google.github.io/styleguide/javaguide.html#s5-naming">Naming Convection - Google Style Guide</a></li>
 </ul>
 
 ## 3. Basics
