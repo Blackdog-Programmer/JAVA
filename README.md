@@ -87,8 +87,6 @@
 ## 00. Input and Output
 
 
-
-
 ## 00. Strings
 
 
@@ -117,6 +115,12 @@
 
 
 ## [00. Collections](https://www.geeksforgeeks.org/collections-in-java-2/)
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>1
 
 
 ## 00. File Handling
