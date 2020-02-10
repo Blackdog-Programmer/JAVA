@@ -97,7 +97,7 @@
 ## 00. OOP Concepts
 <ul>
   <li><a href="https://www.geeksforgeeks.org/different-ways-create-objects-java/https://www.geeksforgeeks.org/different-ways-create-objects-java/">Different ways to create objects in Java</a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://www.geeksforgeeks.org/swap-exchange-objects-java/">Wrapper Class to swap or exchange objects in Java</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
