@@ -49,6 +49,7 @@
   <li><a href="https://www.geeksforgeeks.org/enum-in-java/">enum in Java</a></li>
   <li><a href="https://www.geeksforgeeks.org/using-_-underscore-variable-name-java/">Never Using _ (underscore) as variable name</a></li>
     <li><a href="https://www.geeksforgeeks.org/interesting-facts-about-null-in-java/">Interesting facts about null in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/g-fact-31-java-is-strictly-pass-by-value/">Java is Strictly Pass by Value!</a></li>
 </ul>
 
 
