@@ -114,8 +114,9 @@
 
 
 ## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
-<h4>Multiple Inheritance (Through Interfaces)</h4>
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance2-1.png" alt="Multiple Inheritance (Through Interfaces)">
+<ul>
+  <li><strong>Default superclass</strong>: Except Object class, which has no superclass, every class has one and only one direct superclass (single inheritance). In the absence of any other explicit superclass, every class is implicitly a subclass of <strong>Object class.</strong></li>
+</ul>
 
 <ul>
   <li><a href=""> </a></li>
@@ -125,6 +126,7 @@
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
 </ul>
+
 
 ## 00. Important Keywords
 
