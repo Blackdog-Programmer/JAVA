@@ -129,12 +129,11 @@
   <li><a href="https://www.geeksforgeeks.org/java-and-multiple-inheritance/">Java does’nt support Multiple Inheritance – <strong>The Diamond Problem</strong></a></li>
   <li><a href="https://www.geeksforgeeks.org/gfact-52-java-object-creation-of-inherited-classes/">Object Creation of Inherited Class</a></li>
   <li><a href="https://www.geeksforgeeks.org/g-fact-67/">Inheritance and constructors</a></li>
-  <li><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/extends.png" alt="Interfaces and Inheritance in Java Image"></li><
+  <li><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/extends.png" alt="Interfaces and Inheritance in Java"></li>
   <li><a href="https://www.geeksforgeeks.org/interfaces-and-inheritance-in-java/">Interfaces and Inheritance</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://www.geeksforgeeks.org/using-final-with-inheritance-in-java/">Using final with Inheritance</a></li>
+  <li><a href="https://www.geeksforgeeks.org/more-restrictive-access-is-given-to-a-derived-class-method-in-java/">More restrictive access to a derived class method</a></li>
+  <li><a href="https://www.geeksforgeeks.org/parent-and-child-classes-having-same-data-member-in-java/">Parent and Child classes having same data member</a></li>
   <li><a href=""> </a></li>
 </ul>
 
