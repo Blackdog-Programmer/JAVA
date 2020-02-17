@@ -114,7 +114,7 @@
 
 
 ## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
-
+<h4>Multiple Inheritance (Through Interfaces)</h4>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance2-1.png" alt="Multiple Inheritance (Through Interfaces)">
 
 <ul>
