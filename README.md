@@ -71,8 +71,10 @@
 
 ## 4. Operators in Java
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/new-operator-java/">new() operator</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-instanceof-and-its-applications/">instance of operator</a></li>
-
+  <li><a href="https://www.geeksforgeeks.org/comparison-autoboxed-integer-objects-java/">Comparison of Autoboxed Integer objects in Java</a></li>
+</ul>
 
 ## [5. Packages](https://www.geeksforgeeks.org/packages-in-java/)
 <ul>
