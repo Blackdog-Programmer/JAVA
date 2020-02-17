@@ -116,11 +116,21 @@
 ## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
 <ul>
   <li><strong>Default superclass</strong>: Except Object class, which has no superclass, every class has one and only one direct superclass (single inheritance). In the absence of any other explicit superclass, every class is implicitly a subclass of <strong>Object class.</strong></li>
-  <li><strong>Superclass can only be one</strong>: A superclass can have any number of subclasses. But a subclass can have only <strong>one</strong> superclass. This is because <u>Java does not support multiple inheritance</u> with classes. Although with interfaces, multiple inheritance is supported by java.</li>
+  
+  <li><strong>Superclass can only be one</strong>: A superclass can have any number of subclasses. But a subclass can have only <strong>one</strong> superclass. This is because <strong>Java does not support multiple inheritance</strong> with classes. Although with interfaces, multiple inheritance is supported by java.</li>
+  
+  <li><strong>Inheriting Constructors</strong>: A subclass inherits all the members (fields, methods, and nested classes) from its superclass. <strong>Constructors are not members</strong>, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass.</li>
+  
+  <li><strong>Private member inheritance</strong>: A subclass does not inherit the private members of its parent class. However, if the superclass has <strong>public or protected methods</strong>(like getters and setters) for accessing its private fields, these can also be used by the subclass.
+</li>
 </ul>
 
 <ul>
-  <li><a href=""> </a></li>
+  <li><a href="https://www.geeksforgeeks.org/java-and-multiple-inheritance/">Java does’nt support Multiple Inheritance – <strong>The Diamond Problem</strong></a></li>
+  <li><a href="https://www.geeksforgeeks.org/gfact-52-java-object-creation-of-inherited-classes/">Object Creation of Inherited Class</a></li>
+  <li><a href="https://www.geeksforgeeks.org/g-fact-67/">Inheritance and constructors</a></li>
+  <li><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/extends.png" alt="Interfaces and Inheritance in Java Image"></li><
+  <li><a href="https://www.geeksforgeeks.org/interfaces-and-inheritance-in-java/">Interfaces and Inheritance</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
