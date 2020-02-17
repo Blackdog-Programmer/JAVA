@@ -70,6 +70,8 @@
 </ul>
 
 ## 4. Operators in Java
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/java-instanceof-and-its-applications/">instance of operator</a></li>
 
 
 ## [5. Packages](https://www.geeksforgeeks.org/packages-in-java/)
