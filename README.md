@@ -116,6 +116,7 @@
 ## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
 <ul>
   <li><strong>Default superclass</strong>: Except Object class, which has no superclass, every class has one and only one direct superclass (single inheritance). In the absence of any other explicit superclass, every class is implicitly a subclass of <strong>Object class.</strong></li>
+  <li><strong>Superclass can only be one</strong>: A superclass can have any number of subclasses. But a subclass can have only <strong>one</strong> superclass. This is because <u>Java does not support multiple inheritance</u> with classes. Although with interfaces, multiple inheritance is supported by java.</li>
 </ul>
 
 <ul>
