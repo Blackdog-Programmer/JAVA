@@ -113,8 +113,18 @@
 ## 00. Methods
 
 
-## 00. Inheritance
+## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance2-1.png" alt="Multiple Inheritance (Through Interfaces)">
+
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 ## 00. Important Keywords
 
