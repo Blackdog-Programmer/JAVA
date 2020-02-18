@@ -158,10 +158,15 @@
 
 ## [00. Collections](https://www.geeksforgeeks.org/collections-in-java-2/)
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="">Collection</a></li>
+  <li><a href="">List</a></li>
+  <li><a href="">Queue</a></li>
+  <li><a href="">Deque</a></li>
+  <li><a href="">Set</a></li>
+  <li><a href="">Map</a></li>
+  <li><a href="">HashTable</a></li>
+  <li><a href="">Stack</a></li>
+  <li><a href="">Vector</a></li>
 </ul>1
 
 
