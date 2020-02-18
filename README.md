@@ -166,8 +166,11 @@
   <li><a href="">Map</a></li>
   <li><a href="">HashTable</a></li>
   <li><a href="">Stack</a></li>
-  <li><a href="">Vector</a></li>
-</ul>1
+  <li><a href="https://www.geeksforgeeks.org/java-util-vector-class-java/">Java.util.Vector Class(dynamic memory allocation)</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Vector.html">JDK 11 Vector Docs</a></li>
+  </li>
+</ul>
 
 
 ## 00. File Handling
