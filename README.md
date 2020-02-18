@@ -156,13 +156,17 @@
 ## 00. Exception Handling
 
 
-## [00. Collections](https://www.geeksforgeeks.org/collections-in-java-2/)
+## Collection in Java
 <kbd>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/java-collection.jpg" alt="Collections Interface Hierarchy">
 </kbd>
 
 <ul>
-  <li><a href="">Collection</a></li>
+  <li><a href="https://www.geeksforgeeks.org/collections-in-java-2/">Collection</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/abstractcollection-in-java-with-examples/">AbstractCollection</a></li>
+    </ul>
+  </li>
   <li><a href="">List</a></li>
   <li><a href="">Queue</a></li>
   <li><a href="">Deque</a></li>
