@@ -89,8 +89,18 @@
 </ul>
 
 
-## 00. Input and Output
-
+## 6. Input and Output
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/character-stream-vs-byte-stream-java/">Character Stream Vs Byte Stream in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/doublestream-maptoobj-in-java/https://www.geeksforgeeks.org/doublestream-maptoobj-in-java/">DoubleStream mapToObj() in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/command-line-arguments-in-java/">Command Line arguments</a></li>
+  <li><a href="https://www.geeksforgeeks.org/scanner-class-in-java/">Scanner Class</a></li>
+  <li><a href="https://www.geeksforgeeks.org/gfact-51-java-scanner-nextchar/">Scanner and nextChar()</a></li>
+  <li><a href="https://www.geeksforgeeks.org/difference-between-scanner-and-bufferreader-class-in-java/">Difference between Scanner and BufferReader Class</a></li>
+  <li><a href="https://www.geeksforgeeks.org/formatted-output-in-java/">Formatted output</a></li>
+  <li><a href="https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/">Fast I/O in Competitive Programming</a></li>
+  <li><a href="https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/">Ways to read input from console</a></li>
+</ul>
 
 ## 00. Strings
 
@@ -100,11 +110,10 @@
 
 ## 00. OOP Concepts
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/java/">Classes and Objects</a></li>
   <li><a href="https://www.geeksforgeeks.org/different-ways-create-objects-java/https://www.geeksforgeeks.org/different-ways-create-objects-java/">Different ways to create objects in Java</a></li>
   <li><a href="https://www.geeksforgeeks.org/swap-exchange-objects-java/">Wrapper Class to swap or exchange objects in Java</a></li>
   <li><a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
 </ul>  
 
 ## 00. Constructors
