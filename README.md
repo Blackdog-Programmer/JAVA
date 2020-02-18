@@ -111,6 +111,7 @@
 ## 00. OOP Concepts
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java/">Classes and Objects</a></li>
+  <li><a href="https://www.geeksforgeeks.org/g-fact-46/">Java object storage in Heap</a></li>
   <li><a href="https://www.geeksforgeeks.org/different-ways-create-objects-java/https://www.geeksforgeeks.org/different-ways-create-objects-java/">Different ways to create objects in Java</a></li>
   <li><a href="https://www.geeksforgeeks.org/swap-exchange-objects-java/">Wrapper Class to swap or exchange objects in Java</a></li>
   <li><a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a></li>
@@ -119,8 +120,11 @@
 ## 00. Constructors
 
 
-## 00. Methods
-
+[## 00. Methods](https://www.geeksforgeeks.org/methods-in-java/)
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/g-fact-45/">In Java, parameters are always passed by value</a></li>
+  <li><a href="https://www.geeksforgeeks.org/returning-multiple-values-in-java/">Returning Multiple values</a></li>
+</ul>
 
 ## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
 <ul>
