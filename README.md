@@ -157,7 +157,9 @@
 
 
 ## [00. Collections](https://www.geeksforgeeks.org/collections-in-java-2/)
-![Collections Interface Hierarchy](https://media.geeksforgeeks.org/wp-content/uploads/java-collection.jpg)
+<kbd>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/java-collection.jpg" alt="Collections Interface Hierarchy">
+</kbd>
 
 <ul>
   <li><a href="">Collection</a></li>
