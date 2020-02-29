@@ -188,7 +188,7 @@
   </li>
   
   <li><a href="https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/">Runtime Polymorphism - In Java, can override methods only, <strong>not the variables(data members)</strong></a>
-    <ul>Static vs Dynamic binding
+    <ul><a href="https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/">Static vs Dynamic binding</a>
       <li>Static binding is done during compile-time while dynamic binding is done during run-time.</li>
       <li>private, final and static methods and variables uses static binding and bonded by compiler while overridden methods are bonded during runtime based upon type of runtime object</li>
     </ul>
