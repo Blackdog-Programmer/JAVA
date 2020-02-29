@@ -5,7 +5,6 @@
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
-  <li><a href="https://www.baeldung.com/java-9-modularity">A Guide to Java 9 Modularity - package of Java Packages</a></li>
 </ul>
 
 
@@ -123,7 +122,7 @@
   <li><a href="https://www.geeksforgeeks.org/comparison-autoboxed-integer-objects-java/">Comparison of Autoboxed Integer objects in Java</a></li>
 </ul>
 
-## [5. Packages](https://www.geeksforgeeks.org/packages-in-java/)
+## [5. Packages and Modules](https://www.geeksforgeeks.org/packages-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-lang-package-java/">java.lang package</a></li>
   <p>Provides classes that are fundamental to the design of the Java programming language. The most important classes are Object, which is the root of the class hierarchy, and Class, instances of which represent classes at run time.</p>
@@ -133,6 +132,8 @@
   
   <li><a href="https://www.geeksforgeeks.org/java-util-package-java/">java.util package</a></li>
   <p>It contains the collections framework, legacy collection classes, event model, date and time facilities, internationalization, and miscellaneous utility classes (a string tokenizer, a random-number generator, and a bit array).</p>
+  
+  <li><a href="https://www.baeldung.com/java-9-modularity">A Guide to Java 9 Modularity - package of Java Packages</a></li>
 </ul>
 
 
