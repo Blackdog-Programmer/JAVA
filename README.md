@@ -51,12 +51,12 @@
   <li><a href="https://www.geeksforgeeks.org/main-method-compulsory-java/">main method is mendatory in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/jdbc-drivers/">JDBC Drivers</a>
-    If you are accessing one type of database, such as Oracle, Sybase, or IBM, the preferred driver type is type-4.
     <ul>
       <li>Type-1 driver or JDBC-ODBC bridge driver</li>
       <li>Type-2 driver or Native-API driver</li>
       <li>Type-3 driver or Network Protocol driver</li>
       <li>Type-4 driver or Thin driver</li>
+      <li>If you are accessing one type of database, such as Oracle, Sybase, or IBM, the preferred driver type is type-4.</li>
     </ul><br>
     <kbd>
       <img src="https://media.geeksforgeeks.org/wp-content/uploads/JDBCDriver.png"  alt="JDBC Drivers Image">
