@@ -178,6 +178,14 @@
   
   <li><a href="https://www.geeksforgeeks.org/encapsulation-in-java/">Encapsulation in Java</a></li>
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation.jpg", alt="Encapsulation Image">
+  
+  <li><a href="https://www.geeksforgeeks.org/abstraction-in-java-2/">Abstraction in Java</a></li>
+  <li>Encapsulation vs Abstarction
+    <ul>
+      <li>Encapsulation is data hiding(information hiding)</li>
+      <li>Abstraction is detail hiding(implementation hiding)</li>
+    </ul>
+  </li>
 </ul>  
 
 ## 00. Constructors
