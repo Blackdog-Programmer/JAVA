@@ -221,13 +221,20 @@
       <li><a href="https://www.geeksforgeeks.org/jagged-array-in-java/">Jagged Array in Java</a></li>
     </ul>
   </li>
-  <li><a href="https://www.geeksforgeeks.org/array-class-in-java/">Arrays class in Java - java.util package</a>
+  <li><a href="https://www.geeksforgeeks.org/array-class-in-java/">Arrays class in Java - <strong>java.util package</strong></a>
     <ul>
       <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html">This class provides static methods to dynamically create and access Java arrays</a></li>
     </ul>
   </li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/reflection-array-class-in-java/">Reflection Array Class - <strong>java.lang.reflect package</strong></a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/reflection-array-class-in-java/">util.Arrays vs reflect.Array in Java</a>
+    <ul>
+      <li>java.util.Arrays class contains various methods for manipulating arrays (such as sorting and searching)</li>
+      <li>java.lang.reflect.Array class provides static methods to dynamically create and access Java arrays</li>
+    </ul>
+  </li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
