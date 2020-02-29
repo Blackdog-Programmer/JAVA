@@ -1,10 +1,10 @@
 ## 0. References
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
-  <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
   <li><a href="https://www.baeldung.com/java-9-modularity">A Guide to Java 9 Modularity - package of Java Packages</a></li>
 </ul>
 
