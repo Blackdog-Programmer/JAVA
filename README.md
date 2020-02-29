@@ -169,15 +169,11 @@
   <li><a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a>
     <ol>
       <li>Single Inheritance</li>
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance1.png", alt="Single inheritance image">
       <li>Multilevel Inheritance - In Java, a class <storng>cannot directly access the grandparent’s members.</strong></li>
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance3.png", alt="Multilevel inheritacne image">
       <li>Hierarchical Inheritance</li>
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance4.png", alt="Hierarchical Inheritance">
       <li>Multiple Inheritance(Through only <strong>Interfaces</strong> in Java)</li>
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance2-1.png", alt="Mutiple Inheritance Image">
       <li>Hybrid Inheritance(Through only <strong>Interfaces</strong> in Java)</li>
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance-1.png", alt="Hybrid Inheritance Image">
+    </ol>
   </li>
 </ul>  
 
