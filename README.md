@@ -1,4 +1,4 @@
-## 0. References
+## 0. Articles
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
