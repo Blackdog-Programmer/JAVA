@@ -1,4 +1,4 @@
-## 0. References
+## References
 <ul>
   <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
@@ -8,7 +8,7 @@
 </ul>
 
 
-## 1. Tools and Tips
+## 00. Tools and Tips
 <ul>
   <li>Eclipse IDE
     <ul>
@@ -27,7 +27,7 @@
 </ul>
 
 
-## [2. Java Overview](https://www.geeksforgeeks.org/java/)
+## [01. Java Overview](https://www.geeksforgeeks.org/java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
     <ul>
@@ -64,7 +64,7 @@
 </ul>
 
 
-## 3. Basics
+## 02. Basics
 <ul>
   <li><a href="https://www.geeksforgeeks.org/data-types-in-java/">Java is statically typed and also a strongly typed language</a></li> 
   
@@ -99,7 +99,7 @@
 </ul>
 
 
-## 3. Importent Keywords
+## 03. Importent Keywords
 <ul>
   <li><a href="https://www.geeksforgeeks.org/list-of-all-java-keywords/">List of all Java Keywords</a></li>
   
@@ -115,14 +115,14 @@
   <li><a href="https://www.geeksforgeeks.org/strictfp-keyword-java/">strictfp keyword in java</a></li>
 </ul>
 
-## 4. Operators in Java
+## 04. Operators in Java
 <ul>
   <li><a href="https://www.geeksforgeeks.org/new-operator-java/">new() operator</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-instanceof-and-its-applications/">instance of operator</a></li>
   <li><a href="https://www.geeksforgeeks.org/comparison-autoboxed-integer-objects-java/">Comparison of Autoboxed Integer objects in Java</a></li>
 </ul>
 
-## [5. Packages and Modules](https://www.geeksforgeeks.org/packages-in-java/)
+## [05. Packages and Modules](https://www.geeksforgeeks.org/packages-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-lang-package-java/">java.lang package</a></li>
   <p>Provides classes that are fundamental to the design of the Java programming language. The most important classes are Object, which is the root of the class hierarchy, and Class, instances of which represent classes at run time.</p>
@@ -137,7 +137,7 @@
 </ul>
 
 
-## 6. Input and Output
+## 06. Input and Output
 <ul>
   <li><a href="https://www.geeksforgeeks.org/character-stream-vs-byte-stream-java/">Character Stream Vs Byte Stream in Java</a></li>
   <li><a href="https://www.geeksforgeeks.org/doublestream-maptoobj-in-java/https://www.geeksforgeeks.org/doublestream-maptoobj-in-java/">DoubleStream mapToObj() in Java</a></li>
@@ -150,13 +150,7 @@
   <li><a href="https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/">Ways to read input from console</a></li>
 </ul>
 
-## 00. Strings
-
-
-## 00. Arrays
-
-
-## 00. OOP Concepts
+## 07. OOP Concepts
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java/">Classes and Objects</a></li>
   
@@ -193,7 +187,23 @@
       <li>private, final and static methods and variables uses static binding and bonded by compiler while overridden methods are bonded during runtime based upon type of runtime object</li>
     </ul>
   </li>
-</ul>  
+  
+  <li><a href="https://www.geeksforgeeks.org/association-composition-aggregation-java/">Association, Composition and Aggregation</a>
+  <ul>Aggregation vs Composition
+    <li>Dependency: Aggregation implies a relationship where the child can exist independently of the parent.</li>
+    <li>Type of Relationship: Aggregation relation is “has-a” and composition is “part-of” relation.</li>
+    <li>Type of association: Composition is a strong Association whereas Aggregation is a weak Association.</li>
+  </ul>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/Associatn.png" alt="Assocation Image">
+
+</ul>
+
+
+## 00. Strings
+
+
+## 00. Arrays
+
 
 ## 00. Constructors
 
