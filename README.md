@@ -211,14 +211,19 @@
 </ul>
 
 
-## 00. Strings
+## 08. Constructors
 
 
-## 00. Arrays
+## 09. Arrays
 <ul>
   <li><a href="https://www.geeksforgeeks.org/arrays-in-java/">Arrays in Java</a>
     <ul>
       <li><a href="https://www.geeksforgeeks.org/jagged-array-in-java/">Jagged Array in Java</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.geeksforgeeks.org/array-class-in-java/">Arrays class in Java - java.util package</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html">This class provides static methods to dynamically create and access Java arrays</a></li>
     </ul>
   </li>
   <li><a href=""> </a></li>
@@ -228,11 +233,9 @@
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
 </ul>
 
-
-## 00. Constructors
+## 00. Strings
 
 
 ## [00. Methods](https://www.geeksforgeeks.org/methods-in-java/)
