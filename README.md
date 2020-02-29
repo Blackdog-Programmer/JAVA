@@ -159,10 +159,20 @@
 ## 00. OOP Concepts
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java/">Classes and Objects</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/g-fact-46/">Java object storage in Heap</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/different-ways-create-objects-java/https://www.geeksforgeeks.org/different-ways-create-objects-java/">Different ways to create objects in Java</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/swap-exchange-objects-java/">Wrapper Class to swap or exchange objects in Java</a></li>
-  <li><a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a>
+    <ol>
+      <li>Single Inheritance</li>
+      <img src="https://media.geeksforgeeks.org/wp-content/uploads/inheritance1.png", alt="single inheritance image">
+      <li>Single Inheritance</li>
+      <li>Single Inheritance</li>
+  </li>
 </ul>  
 
 ## 00. Constructors
