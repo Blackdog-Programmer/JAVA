@@ -80,12 +80,14 @@
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-45-using-underscore-in-numeric-literals/">Using underscore in Numeric Literals</a></li>
   
+  <li><a href="https://www.geeksforgeeks.org/interesting-facts-about-null-in-java/">Interesting facts about null in Java</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/do-we-need-forward-declarations-in-java/">Java don't need <strong>forward declaration</strong>(i.e. function) likas as C++</a><li>
   
   <li><a href="https://www.geeksforgeeks.org/binary-search-in-java/">Binary Search in Java</a>
     <ul>
-      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html">Arrays.binarysearch()</a></li>
-      <li><a href="">Collections.binarysearch()</a></li>
+      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html#binarySearch(int[],int)">Arrays.binarysearch()</a></li>
+      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html#binarySearch(java.util.List,T)">Collections.binarysearch()</a></li>
     </ul>
   </li>
 </ul>
