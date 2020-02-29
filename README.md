@@ -175,6 +175,10 @@
       <li>Hybrid Inheritance(Through only <strong>Interfaces</strong> in Java)</li>
     </ol>
   </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/encapsulation-in-java/">Encapsulation in Java</a>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation.jpg", alt="Encapsulation Image">
+  </li>
 </ul>  
 
 ## 00. Constructors
