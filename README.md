@@ -57,8 +57,10 @@
       <li>Type-2 driver or Native-API driver</li>
       <li>Type-3 driver or Network Protocol driver</li>
       <li>Type-4 driver or Thin driver</li>
-    </ul>
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/JDBCDriver.png"  alt="JDBC Drivers Image">
+    </ul><br>
+    <kbd>
+      <img src="https://media.geeksforgeeks.org/wp-content/uploads/JDBCDriver.png"  alt="JDBC Drivers Image">
+    </kbd>
   </li>
 </ul>
 
