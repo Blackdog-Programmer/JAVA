@@ -6,7 +6,7 @@
   <li><a href="https://www.geeksforgeeks.org/category/java/">Java Recent Articles</a></li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
   <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
-  <li><a href="https://www.baeldung.com/java-9-modularity">A Guide to Java 9 Modularity - new level of abstraction above packages</a></li>
+  <li><a href="https://www.baeldung.com/java-9-modularity">A Guide to Java 9 Modularity - package of Java Packages</a></li>
 </ul>
 
 
