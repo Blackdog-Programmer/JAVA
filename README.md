@@ -202,6 +202,12 @@
   <kbd>
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Access-Modifiers-in-Java.png" alt="Access Modifiers in Java Image">
   </kbd>
+  
+  <li><a href="https://www.geeksforgeeks.org/this-reference-in-java/">‘this’ reference in Java</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/overloading-in-java/">Method Overloading - compile-time (or static) polymorphism</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/">Understanding “static” in “public static void main”</a></li>
 </ul>
 
 
@@ -209,6 +215,21 @@
 
 
 ## 00. Arrays
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/arrays-in-java/">Arrays in Java</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/jagged-array-in-java/">Jagged Array in Java</a></li>
+    </ul>
+  </li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 ## 00. Constructors
@@ -297,4 +318,23 @@
 ## 00. Wrapper Class
 
 
-## 00. Multi-Threading
+## 00. Useful and/or Advanced Features 
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/annotations-in-java/">Annotations in Java</a>
+    <ul>
+      <li>Annotations do not change action of a compiled program.</li>
+      <li>Annotations help to associate metadata (information) to the program elements i.e. instance variables, constructors, methods, classes, etc.</li>
+      <li>Annotations are not pure comments as they can change the way a program is treated by compiler.</li>
+    </ul>
+    <ul>Built-In Annotation
+      <li>@Retention, @Documented, @Target, and @Inherited</li>
+      <li>@Deprecated, @Override and @SuppressWarnings</li>
+    </ul>
+  </li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
