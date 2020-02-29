@@ -1,6 +1,6 @@
 ## References
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
+  <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">How to Become a good Java programmer?</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
@@ -115,6 +115,7 @@
   <li><a href="https://www.geeksforgeeks.org/strictfp-keyword-java/">strictfp keyword in java</a></li>
 </ul>
 
+
 ## 04. Operators in Java
 <ul>
   <li><a href="https://www.geeksforgeeks.org/new-operator-java/">new() operator</a></li>
@@ -149,6 +150,7 @@
   <li><a href="https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/">Fast I/O in Competitive Programming</a></li>
   <li><a href="https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/">Ways to read input from console</a></li>
 </ul>
+
 
 ## 07. OOP Concepts
 <ul>
@@ -196,6 +198,10 @@
   </ul>
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Associatn.png" alt="Assocation Image">
 
+  <li><a href="https://www.geeksforgeeks.org/access-modifiers-java/">Access Modifiers in Java</a></li>
+  <kbd>
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Access-Modifiers-in-Java.png" alt="Access Modifiers in Java Image">
+  </kbd>
 </ul>
 
 
