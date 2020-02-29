@@ -1,4 +1,4 @@
-## 0. Articles
+## 0. References
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
@@ -6,6 +6,7 @@
   <li><a href="https://www.geeksforgeeks.org/category/java/">Java Recent Articles</a></li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
   <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">Become a good Java programmer</a></li>
+  <li><a href="https://www.baeldung.com/java-9-modularity">A Guide to Java 9 Modularity - new level of abstraction above packages</a></li>
 </ul>
 
 
@@ -68,10 +69,25 @@
 ## 3. Basics
 <ul>
   <li><a href="https://www.geeksforgeeks.org/data-types-in-java/">Java is statically typed and also a strongly typed language</a></li> 
+  
   <li><a href="https://www.geeksforgeeks.org/enum-in-java/">enum in Java</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/using-_-underscore-variable-name-java/">Never Using _ (underscore) as variable name</a></li>
-    <li><a href="https://www.geeksforgeeks.org/interesting-facts-about-null-in-java/">Interesting facts about null in Java</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/interesting-facts-about-null-in-java/">Interesting facts about null in Java</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/g-fact-31-java-is-strictly-pass-by-value/">Java is Strictly Pass by Value!</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/g-fact-45-using-underscore-in-numeric-literals/">Using underscore in Numeric Literals</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/do-we-need-forward-declarations-in-java/">Java don't need <strong>forward declaration</strong>(i.e. function) likas as C++</a><li>
+  
+  <li><a href="https://www.geeksforgeeks.org/binary-search-in-java/">Binary Search in Java</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html">Arrays.binarysearch()</a></li>
+      <li><a href="">Collections.binarysearch()</a></li>
+    </ul>
+  </li>
 </ul>
 
 
