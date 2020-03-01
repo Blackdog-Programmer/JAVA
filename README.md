@@ -235,11 +235,14 @@
       <li>java.lang.reflect.Array class provides static methods to dynamically create and access Java arrays</li>
     </ul>
   </li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://www.geeksforgeeks.org/final-arrays-in-java/">Final arrays</a></li>
+  <li><a href="https://www.geeksforgeeks.org/interesting-facts-array-assignment-java/">Interesting facts about Array assignment</a></li>
+  <li><a href="">Array vs ArrayList</a>
+    <ul>
+      <li>Array: Simple fixed sized arrays</li>
+      <li>ArrayList : Dynamic sized arrays(~= vector in C++)</li>
+    </ul>
+  </li>
 </ul>
 
 ## 00. Strings
