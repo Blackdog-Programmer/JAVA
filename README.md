@@ -212,6 +212,26 @@
 
 
 ## 08. Constructors
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/constructors-in-java/">Constructors in Java</a>
+    <ul>
+      <li>A constructor in Java can not be abstract, final, static and Synchronized</li>
+      <li>Access modifiers can be used in constructor declaration to control its access i.e which other class can call the constructor</li>
+      <li>There are no “return value” statements in constructor, but constructor returns current class instance</li>
+    </ul>
+  </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/copy-constructor-in-java/">Copy Constructor in Java</a>
+    <ul>
+      <li>unlike C++, Java doesn’t create a default copy constructor if you don’t write your own</li>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 ## 09. Arrays
@@ -244,6 +264,7 @@
     </ul>
   </li>
 </ul>
+
 
 ## 00. Strings
 
@@ -295,6 +316,26 @@
 
 
 ## 00. Exception Handling
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/exceptions-in-java/">Exceptions in Java</a>
+    <ul>
+      <li>An exception is an unwanted or unexpected event, which occurs during the execution of a program</li>
+      <li>The exception object contains name and description of the exception, and current state of the program where exception has occurred</li>
+      <li><strong>Error:</strong> An Error indicates serious problem that a reasonable application should not try to catch</li>
+      <li><strong>Exception:</strong> Exception indicates conditions that a reasonable application might try to catch.</li>
+    </ul>
+  </li>
+  <kbd>
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/Exception-in-java1.png" alt="Exception and Error Hierarchy">
+  </kbd>
+  
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 ## Collection in Java
