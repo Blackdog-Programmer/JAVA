@@ -392,3 +392,8 @@
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
 </ul>
+
+## 00. Design Pattern
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/data-access-object-pattern/">Data Access Object(DAO) Pattern</a></li>
+</ul>
