@@ -1,7 +1,7 @@
 ## References
 <ul>
   <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">How to Become a good Java programmer?</a></li>
-  <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Google Java Style Guide</a></li>
+  <li><a href="https://google.github.io/styleguide/javaguide.html">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
