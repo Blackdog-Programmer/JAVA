@@ -4,7 +4,7 @@
     <ul>
       <li><a href="https://www.geeksforgeeks.org/top-10-reasons-to-learn-java/">Top 10 Reasons to Learn Java</a>
         <ul>
-          <li><a href="https://www.tiobe.com/tiobe-index/">TIOBE Index - Programming Languages</li>
+          <li><a href="http://pypl.github.io/PYPL.html">PYPL PopularitY of Programming Language</li>
         </ul>
       </li>
     </ul>
