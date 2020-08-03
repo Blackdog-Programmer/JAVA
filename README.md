@@ -36,6 +36,7 @@
 
 
 ## [01. Java Overview](https://www.geeksforgeeks.org/java/)
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190628094222/Java-Tutorial-by-GeeksforGeeks.png" alt="Learn Java Step">
 <ul>
   <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
     <ul>
