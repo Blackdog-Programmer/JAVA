@@ -38,6 +38,10 @@
 ## [01. Java Bootstrap](https://www.geeksforgeeks.org/java-tutorial/)
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190628094222/Java-Tutorial-by-GeeksforGeeks.png" alt="Learn Java Step">
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/java-how-to-start-learning-java/">Learn about Java</a></li>
+</ul>
+
+<ul>
   <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
     <ul>
       <li><strong>JDK</strong>(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</li>
