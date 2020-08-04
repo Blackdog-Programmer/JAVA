@@ -9,6 +9,8 @@
       </li>
     </ul>
   </li>
+  <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Java Pratice Code</a></li>
+  <li><a href="https://www.geeksforgeeks.org/category/java/">Recent articles on Java</a></li>
   <li><a href="https://google.github.io/styleguide/javaguide.html">Google Java Style Guide</a></li>
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
@@ -22,7 +24,7 @@
     <ul>
       <li><a href="https://www.eclipse.org/getting_started/content/eclipse-ide-keybindings.pdf">Eclipse IDE Keybindings</a></li>
       <li><a href="https://www.eclipse.org/downloads/packages/">Eclipse IDE for Enterprise Java Developers</a></li>
-      <li><a href="http://www.planetofbits.com/eclipse/increase-jvm-heap-size-in-eclipse/">How to increase JVM Heap size in Eclipe</a></li>
+      <li><a href="http://www.planetofbits.com/eclipse/increase-jvm-heap-size-in-eclipse/">How to increase JVM Heap size in Eclipse</a></li>
     </ul>
   </li>
   <li>IntelliJ IDE
@@ -37,6 +39,10 @@
 
 ## [01. Java Bootstrap](https://www.geeksforgeeks.org/java-tutorial/)
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190628094222/Java-Tutorial-by-GeeksforGeeks.png" alt="Learn Java Step">
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/java-how-to-start-learning-java/">Learn about Java</a></li>
+</ul>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
     <ul>
