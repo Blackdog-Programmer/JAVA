@@ -53,8 +53,6 @@
     </ul>
   </li>
   
-  <li><a href="https://google.github.io/styleguide/javaguide.html#s5-naming">Naming Convection - Google Style Guide</a></li>
-  
   <li><a href="https://www.geeksforgeeks.org/java/">How JVM Wroks?</a></li>
   <kbd>
     <img src="https://github.com/Blackdog-Programmer/JAVA-Bootstrap/blob/master/References/Overview/jvm-arcitecture.png" alt="JVM Architecture Image">
