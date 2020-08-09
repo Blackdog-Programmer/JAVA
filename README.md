@@ -27,10 +27,10 @@
       <li><a href="http://www.planetofbits.com/eclipse/increase-jvm-heap-size-in-eclipse/">How to increase JVM Heap size in Eclipse</a></li>
     </ul>
   </li>
-  <li>IntelliJ IDE
+  <li><a href="https://www.jetbrains.com/education/download/#section=idea">IntelliJ Eductation IDE</a>
     <ul>
-      <li><a href="https://www.jetbrains.com/education/download/#section=idea">IntelliJ Eductation IDE</a></li>
       <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
+      <li><a href="https://www.jetbrains.com/help/idea/discover-intellij-idea.html">IntelliJ IDE Documentation</a></li>
     </ul>
   </li>
   <li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">Java SE Development Kit 11</a></li>
