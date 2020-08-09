@@ -46,7 +46,11 @@
 <ul>
   <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Java Environment(Differences between JDK, JRE and JVM)</a>
     <ul>
-      <li><strong>JDK</strong>(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</li>
+      <li><strong>JDK</strong>(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.
+        <ul>
+          <li><a href="https://www.geeksforgeeks.org/difference-between-a-java-application-and-a-java-applet/">Difference between a Java Application and a Java Applet</a></li>
+        </ul>
+      </li>
       <li><strong>JRE</strong>(Java Runtime Environment) : JRE contains the parts of the Java libraries required to run Java programs and is intended for end users. JRE can be view as a subset of JDK.</li>
       <li><strong>JVM</strong>: JVM (Java Virtual Machine) is an abstract machine. It is a specification that provides runtime environment in which java bytecode can be executed. JVMs are available for many hardware and software platforms. 
 </li>
