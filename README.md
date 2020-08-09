@@ -44,7 +44,7 @@
 </ul>
 
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Setting up the environment in Java</a>
+  <li><a href="https://www.geeksforgeeks.org/setting-environment-java/">Java Environment(Differences between JDK, JRE and JVM)</a>
     <ul>
       <li><strong>JDK</strong>(Java Development Kit) : JDK is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</li>
       <li><strong>JRE</strong>(Java Runtime Environment) : JRE contains the parts of the Java libraries required to run Java programs and is intended for end users. JRE can be view as a subset of JDK.</li>
