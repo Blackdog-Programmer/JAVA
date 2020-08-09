@@ -171,7 +171,7 @@
 </ul>
 
 
-## 07. OOP Concepts
+## 07. Object Oriented Programming (OOPs) Concept in Java
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java/">Classes and Objects</a></li>
   
