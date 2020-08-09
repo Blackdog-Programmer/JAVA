@@ -30,7 +30,9 @@
   <li>IntelliJ IDE
     <ul>
       <li><a href="https://www.jetbrains.com/education/download/#section=idea">IntelliJ Eductation IDE</a></li>
-      <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
+      <ul>
+        <li><a href="https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html">IntelliJ Shortcut</a></li>
+        <li><a href="https://www.jetbrains.com/help/idea/discover-intellij-idea.html">IntelliJ IDE Documentation</a></li>
     </ul>
   </li>
   <li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">Java SE Development Kit 11</a></li>
