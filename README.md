@@ -58,10 +58,6 @@
     <img src="https://github.com/Blackdog-Programmer/JAVA-Bootstrap/blob/master/References/Overview/jvm-arcitecture.png" alt="JVM Architecture Image">
   </kbd><br><br>
   
-  <kbd>
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/jvmclassloader.jpg" alt="JVM Class Loader Delegate Hierarchy">
-  </kbd><br><br>
-  
   <li><a href="https://www.geeksforgeeks.org/jvm-shutdown-hook-java/">JVM Shutdown Hook in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/main-method-compulsory-java/">main method is mendatory in Java</a></li>
