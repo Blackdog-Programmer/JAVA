@@ -184,6 +184,7 @@
   <li><a href="https://www.geeksforgeeks.org/polymorphism-in-java/">Polymorphism in Java</a>
     <ul>
       <li><a href="https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/">Runtime polymorphism</a></li>
+      <li><a href="https://www.geeksforgeeks.org/overriding-in-java/">Overriding of Methods</a></li>
     </ul>
   </li>
   
