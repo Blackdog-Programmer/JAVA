@@ -384,12 +384,19 @@
     </ul>
   </li>
   <li><a href="">List</a></li>
+  
   <li><a href="">Queue</a></li>
+  
   <li><a href="">Deque</a></li>
+  
   <li><a href="">Set</a></li>
-  <li><a href="">Map</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/map-interface-java-examples/">Map Interface in Java</a></li>
+  
   <li><a href="">HashTable</a></li>
+  
   <li><a href="">Stack</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/java-util-vector-class-java/">Java.util.Vector Class(dynamic memory allocation)</a>
     <ul>
       <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Vector.html">JDK 11 Vector Docs</a></li>
