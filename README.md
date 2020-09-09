@@ -62,11 +62,6 @@
     <img src="https://github.com/Blackdog-Programmer/JAVA-Bootstrap/blob/master/References/Overview/jvm-arcitecture.png" alt="JVM Architecture Image">
   </kbd><br><br>
   
-  <kbd>
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/java-platform-independent.png" alt="JVM Processing">
-  </kbd><br><br>
-  
-  
   <li><a href="https://www.geeksforgeeks.org/garbage-collection-java/">Garbage Collection in Java</a>
     <ul>
       <li><a href="https://www.geeksforgeeks.org/daemon-thread-java/">Daemon thread in Java</a></li>
