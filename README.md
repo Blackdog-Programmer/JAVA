@@ -56,7 +56,10 @@
 </li>
     </ul>
   </li>
-  
+  <kbd>
+    <img src="https://static.javatpoint.com/images/jdk2.png" alt="JDK">
+  </kbd><br><br>
+
   <li><a href="https://www.geeksforgeeks.org/java/">How JVM Wroks?</a></li>
   <kbd>
     <img src="https://github.com/Blackdog-Programmer/JAVA-Bootstrap/blob/master/References/Overview/jvm-arcitecture.png" alt="JVM Architecture Image">
