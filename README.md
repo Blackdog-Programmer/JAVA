@@ -62,7 +62,7 @@
 
   <li><a href="https://www.geeksforgeeks.org/java/">How JVM Wroks?</a></li>
   <kbd>
-    <img src="https://github.com/Blackdog-Programmer/JAVA-Bootstrap/blob/master/References/Overview/jvm-arcitecture.png" alt="JVM Architecture Image">
+    <img src="https://static.javatpoint.com/images/jvm-architecture.png" alt="JVM Architecture">
   </kbd><br><br>
   
   <li><a href="https://www.geeksforgeeks.org/garbage-collection-java/">Garbage Collection in Java</a>
