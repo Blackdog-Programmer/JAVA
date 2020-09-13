@@ -60,7 +60,7 @@
     <img src="https://static.javatpoint.com/images/jdk2.png" alt="JDK">
   </kbd><br><br>
 
-  <li><a href="https://www.geeksforgeeks.org/java/">How JVM Wroks?</a></li>
+  <li><a href="https://www.javatpoint.com/jvm-java-virtual-machine">How JVM Wroks?</a></li>
   <kbd>
     <img src="https://static.javatpoint.com/images/jvm-architecture.png" alt="JVM Architecture">
   </kbd><br><br>
