@@ -180,7 +180,7 @@
 
 ## 07. Object Oriented Programming (OOPs) Concept in Java
 <kbd>
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190717114649/Object-Oriented-Programming-Concepts.jpg" alt="OOP Concepts">
+  <img src="https://static.javatpoint.com/images/java-oops.png" alt="OOP Concepts">
 </kbd><br><br>
 
 <ul>
