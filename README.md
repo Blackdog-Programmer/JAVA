@@ -194,6 +194,9 @@
   </li>
   
   <li><a href="https://www.geeksforgeeks.org/java/">Classes and Objects</a></li>
+  <kbd>
+  <img src="https://static.javatpoint.com/images/different-ways-to-create-object-in-java.jpg" alt="Cretae Object Methods">
+  </kbd><br><br>
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-46/">Java object storage in Heap</a></li>
   
