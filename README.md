@@ -190,10 +190,6 @@
       <li><a href="https://www.javatpoint.com/this-keyword">this keyword</a></li>
     </ul>
   </li>
-  <kbd>
-  <img src="https://static.javatpoint.com/images/different-ways-to-create-object-in-java.jpg" alt="Cretae Object Methods">
-  </kbd><br><br>
-
 
   <li><a href="https://www.javatpoint.com/inheritance-in-java">Inheritance in Java</a></li>
   
