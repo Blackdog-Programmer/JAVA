@@ -204,16 +204,6 @@
   
   <li><a href="https://www.geeksforgeeks.org/swap-exchange-objects-java/">Wrapper Class to swap or exchange objects in Java</a></li>
   
-  <li><a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a>
-    <ul>
-      <li>Single Inheritance</li>
-      <li>Multilevel Inheritance - In Java, a class <strong>cannot directly access the grandparent’s members.</strong></li>
-      <li>Hierarchical Inheritance</li>
-      <li>Multiple Inheritance(Through only <strong>Interfaces</strong> in Java)</li>
-      <li>Hybrid Inheritance(Through only <strong>Interfaces</strong> in Java)</li>
-    </ul>
-  </li>
-  
   <li><a href="https://www.geeksforgeeks.org/encapsulation-in-java/">Encapsulation in Java</a></li>
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation.jpg", alt="Encapsulation Image">
   
