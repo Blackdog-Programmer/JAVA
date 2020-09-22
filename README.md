@@ -242,7 +242,7 @@
   <li><a href="https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/">Understanding “static” in “public static void main”</a></li>
 </ul>
 
-## [00. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
+## [08. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
 <ul>
   <li><strong>Default superclass</strong>: Except Object class, which has no superclass, every class has one and only one direct superclass (single inheritance). In the absence of any other explicit superclass, every class is implicitly a subclass of <strong>Object class.</strong></li>
   
