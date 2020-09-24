@@ -243,7 +243,6 @@
 </ul>
 
 ## [08. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
-
 <ul>
   <li><a href="https://www.geeksforgeeks.org/java-and-multiple-inheritance/">Java does’nt support Multiple Inheritance – <strong>The Diamond Problem</strong></a></li>
   
@@ -260,7 +259,6 @@
   <li><a href="https://www.geeksforgeeks.org/more-restrictive-access-is-given-to-a-derived-class-method-in-java/">More restrictive access to a derived class method</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/parent-and-child-classes-having-same-data-member-in-java/">Parent and Child classes having same data member</a></li>
-  
 </ul>
 
 ## 08. Constructors
