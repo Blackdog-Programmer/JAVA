@@ -245,6 +245,8 @@
 ## [08. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/object-class-in-java/">Object class in Java</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/java-and-multiple-inheritance/">Java and Multiple Inheritance</a></li>
 </ul>
 
 ## 08. Constructors
