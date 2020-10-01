@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5231eea-7c42-41b1-be49-37f646d7fd22" name="Default Changelist" comment="">
+    <list default="true" id="06de2407-e155-42f9-a1ad-80260fc43efb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/DaemonThread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/out/production/DaemonThread/com/blackdogcode/DaemonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/src/com/blackdogcode/DaemonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/blackdogcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/blackdogcode/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/JVM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/out/production/JVM/com/blackdogcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/out/production/JVM/com/blackdogcode/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/src/com/blackdogcode/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/src/com/blackdogcode/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,82 +44,88 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1fdSHtz4Hr6QiFiQCSJUMYs5lXb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1iD7iw35d248cyFswrunCHNZyg5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.blackdogcode.Main" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="HelloWorld" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5231eea-7c42-41b1-be49-37f646d7fd22" name="Default Changelist" comment="" />
-      <created>1596546391326</created>
+      <changelist id="06de2407-e155-42f9-a1ad-80260fc43efb" name="Default Changelist" comment="" />
+      <created>1601430440223</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596546391326</updated>
+      <updated>1601430440223</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1249" y="277" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596876571434">
-      <screen x="-1858" y="0" width="1858" height="1080" />
-    </state>
-    <state x="-1249" y="277" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@-1858.0.1858.1080" timestamp="1596876571434" />
-    <state x="770" y="294" key="FileChooserDialogImpl" timestamp="1596956438765">
+    <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601512722217">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="770" y="294" key="FileChooserDialogImpl/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1596956438765" />
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1596546961533">
-      <screen x="-1858" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@-1858.0.1858.1080" timestamp="1596546961533" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1596546961533">
-      <screen x="-1858" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@-1858.0.1858.1080" timestamp="1596546961533" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1596546961533">
-      <screen x="-1858" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@-1858.0.1858.1080" timestamp="1596546961533" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1596546961533">
-      <screen x="-1858" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@-1858.0.1858.1080" timestamp="1596546961533" />
-    <state x="687" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1596956400517">
+    <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601512722217" />
+    <state x="771" y="281" key="FileChooserDialogImpl" timestamp="1601514428586">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="-1233" y="365" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@-1858.0.1858.1080" timestamp="1596876668876" />
-    <state x="687" y="365" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1596956400517" />
-    <state x="373" y="160" key="new project wizard" timestamp="1596956495194">
+    <state x="771" y="281" key="FileChooserDialogImpl/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601514428586" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1601514452336">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="373" y="160" key="new project wizard/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1596956495194" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601514452336" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1601514452336">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601514452336" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1601514452336">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601514452336" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1601514452336">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601514452336" />
+    <state x="582" y="160" key="new project wizard" timestamp="1601514450673">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="582" y="160" key="new project wizard/62.0.1858.1080/-1858.0.1858.1080/1920.0.1080.1880@62.0.1858.1080" timestamp="1601514450673" />
   </component>
 </project>
