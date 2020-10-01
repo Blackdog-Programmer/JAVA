@@ -92,6 +92,14 @@
 
 ## 02. Basics
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/list-of-all-java-keywords/">List of all Java Keywords</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/important-keywords-java/">Important Keywords in Java</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html">Expressions, Statements, and Blocks</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/data-types-in-java/">Java is statically typed and also a strongly typed language</a></li> 
   
   <li><a href="https://www.geeksforgeeks.org/enum-in-java/">enum in Java</a></li>
@@ -123,17 +131,6 @@
     </ul>
   </li>
 </ul>
-
-
-## 03. Keywords in Java
-<ul>
-  <li><a href="https://www.geeksforgeeks.org/list-of-all-java-keywords/">List of all Java Keywords</a>
-    <ul>
-      <li><a href="https://www.geeksforgeeks.org/important-keywords-java/">Important Keywords in Java</a></li>
-    </ul>
-  </li>
-</ul>
-
 
 ## 04. Operators in Java
 <ul>
