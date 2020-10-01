@@ -125,11 +125,13 @@
 </ul>
 
 
-## 03. Importent Keywords
+## 03. Keywords in Java
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/list-of-all-java-keywords/">List of all Java Keywords</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/important-keywords-java/">Important Keywords in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/list-of-all-java-keywords/">List of all Java Keywords</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/important-keywords-java/">Important Keywords in Java</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/">final, finally and finalize in Java</a></li>
   <p>Application of <strong>finally block</strong>: So basically the use of finally block is resource deallocation. Means all the resources such as Network Connections, Database Connections</p>
