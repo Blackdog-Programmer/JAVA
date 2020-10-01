@@ -114,7 +114,7 @@
     </ul>
   </li>
   
-  <li><a href="https://www.geeksforgeeks.org/do-we-need-forward-declarations-in-java/">Java don't need <strong>forward declaration</strong>(i.e. function) likas as C++</a><li>
+  <li><a href="https://www.geeksforgeeks.org/do-we-need-forward-declarations-in-java/">Java don't need <strong>forward declaration</strong>(i.e. function) likas as C++</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/binary-search-in-java/">Binary Search in Java</a>
     <ul>
