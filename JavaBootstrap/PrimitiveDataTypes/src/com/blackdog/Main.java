@@ -13,8 +13,8 @@ public class Main {
         // char
         char minCharVal = Character.MIN_VALUE;
         char maxCharVal = Character.MAX_VALUE;
-        System.out.println("Char Minimum Value = " + (int)minCharVal);
-        System.out.println("Char Maximum Value = " + (int)maxCharVal);
+        System.out.println("Char Minimum Value = " + (int) minCharVal);
+        System.out.println("Char Maximum Value = " + (int) maxCharVal);
         System.out.println("Char size of Bytes = " + Character.BYTES);
         System.out.println("Unicode character ex1: " + '\u0283'); // ʃ
         System.out.println("Unicode character ex2: " + '\u03A3'); // Σ
@@ -28,8 +28,8 @@ public class Main {
         System.out.println("Byte Maximum Value = " + maxByteVal);
         System.out.println("Byte size of Bytes = " + Byte.BYTES);
 
-        System.out.println("Overflow Byte Minimum Value = " + (byte)(minByteVal - 1));
-        System.out.println("Overflow Byte Maximum Value = " + (byte)(maxByteVal + 1));
+        System.out.println("Overflow Byte Minimum Value = " + (byte) (minByteVal - 1));
+        System.out.println("Overflow Byte Maximum Value = " + (byte) (maxByteVal + 1));
         System.out.println("---------------------------------------");
 
         // short
@@ -40,8 +40,8 @@ public class Main {
         System.out.println("Short Maximum Value = " + maxShortVal);
         System.out.println("Short size of Bytes = " + Short.BYTES);
 
-        System.out.println("Overflow Short Minimum Value = " + (short)(minShortVal - 1));
-        System.out.println("Overflow Short Maximum Value = " + (short)(maxShortVal + 1));
+        System.out.println("Overflow Short Minimum Value = " + (short) (minShortVal - 1));
+        System.out.println("Overflow Short Maximum Value = " + (short) (maxShortVal + 1));
         System.out.println("---------------------------------------");
 
         // int
