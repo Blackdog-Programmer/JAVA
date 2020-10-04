@@ -378,6 +378,7 @@
   <li><a href="https://www.geeksforgeeks.org/java-util-vector-class-java/">Java.util.Vector Class(dynamic memory allocation)</a>
     <ul>
       <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Vector.html">JDK 11 Vector Docs</a></li>
+    </ul>
   </li>
 </ul>
 
@@ -395,7 +396,7 @@
 <ul>
   <li><a href="https://www.geeksforgeeks.org/annotations-in-java/">Annotations in Java</a>
     <ul>
-      <li>Annotations do not change action of a compiled program.</li>
+      <li>Annotations do not change action of a compiled program.</li>    
       <li>Annotations help to associate metadata (information) to the program elements i.e. instance variables, constructors, methods, classes, etc.</li>
       <li>Annotations are not pure comments as they can change the way a program is treated by compiler.</li>
     </ul>
@@ -404,12 +405,8 @@
       <li>@Deprecated, @Override and @SuppressWarnings</li>
     </ul>
   </li>
+  
   <li><a href="https://www.geeksforgeeks.org/serialization-in-java/">Serialization and Deserialization in Java with Example</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
 </ul>
 
 ## 00. Design Pattern
