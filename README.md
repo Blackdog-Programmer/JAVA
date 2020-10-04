@@ -10,10 +10,15 @@
     </ul>
   </li>
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Java Pratice Code</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/category/java/">Recent articles on Java</a></li>
+  
   <li><a href="https://google.github.io/styleguide/javaguide.html">Google Java Style Guide</a></li>
+  
   <li><a href="https://docs.oracle.com/en/java/javase/11/">JDK 11 Documentation</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/java-multiple-choice-questions/">Java Multiple Choice Questions</a></li>
+  
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Practive Java Coding</a></li>
 </ul>
 
@@ -131,6 +136,12 @@
     </ul>
   </li>
 </ul>
+
+## 03. Input and Output
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/character-stream-vs-byte-stream-java/">Character Stream Vs Byte Stream in Java</a></li>
+</ul>
+
 
 ## 04. Operators in Java
 <ul>
