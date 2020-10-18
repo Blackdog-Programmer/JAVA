@@ -361,11 +361,7 @@
 </ul>
 
 
-## Collection in Java
-<kbd>
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/java-collection.jpg" alt="Collections Interface Hierarchy">
-</kbd>
-
+## [Collection in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/collections-in-java-2/">Collection</a>
     <ul>
