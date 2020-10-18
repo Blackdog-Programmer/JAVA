@@ -256,6 +256,8 @@
   <li><a href="https://www.geeksforgeeks.org/object-class-in-java/">Object class in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/java-and-multiple-inheritance/">Java and Multiple Inheritance</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/gfact-52-java-object-creation-of-inherited-classes/">Java Object Creation of Inherited Class</a></li>
 </ul>
 
 ## 08. Constructors
