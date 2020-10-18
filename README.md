@@ -362,6 +362,10 @@
 
 
 ## [Collection in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
+<kbd>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200623124952/Java-Collections-Hierarchy-1.png" alt="Hierarchy of the Collection Framework"/>
+</kbd>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/collections-in-java-2/">Collection</a>
     <ul>
