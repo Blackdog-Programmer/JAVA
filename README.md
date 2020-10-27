@@ -258,6 +258,8 @@
   <li><a href="https://www.geeksforgeeks.org/java-and-multiple-inheritance/">Java and Multiple Inheritance</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/gfact-52-java-object-creation-of-inherited-classes/">Java Object Creation of Inherited Class</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/using-final-with-inheritance-in-java/">Using final with Inheritance in Java</a></li>
 </ul>
 
 ## 08. Constructors
