@@ -1,5 +1,7 @@
 ## References
 <ul>
+  <li><a href="https://horstmann.com/corejava/">Core Java</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/how-do-i-become-a-good-java-programmer/">How to Become a good Java programmer?</a>
     <ul>
       <li><a href="https://www.geeksforgeeks.org/top-10-reasons-to-learn-java/">Top 10 Reasons to Learn Java</a>
@@ -9,6 +11,7 @@
       </li>
     </ul>
   </li>
+  
   <li><a href="https://practice.geeksforgeeks.org/explore/?category%5B%5D=Java&page=1">Java Pratice Code</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/category/java/">Recent articles on Java</a></li>
