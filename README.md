@@ -269,6 +269,8 @@
       <li>In Java, we can access grandparent’s members only through the parent class</li>
     </ul>
   </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/can-override-private-methods-java/">Can we override private methods in Java?</a></li>
 </ul>
 
 ## 08. Constructors
