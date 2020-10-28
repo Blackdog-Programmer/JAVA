@@ -354,7 +354,9 @@
 
 
 ## [00. Exception Handling](https://www.geeksforgeeks.org/exceptions-in-java/)
-
+<kbd>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/Exception-in-java1.png" alt="Exception Hierarchy"/>
+</kbd>
 
 
 ## [Collection in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
