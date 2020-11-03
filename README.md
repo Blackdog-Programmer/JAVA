@@ -358,6 +358,14 @@
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Exception-in-java1.png" alt="Exception Hierarchy"/>
 </kbd>
 
+<ul>
+  <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Throwable.html">java.lang.Throwable</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html">java.lang.Exception</a></li>
+    </ul>
+  </li>
+</ul>
+
 
 ## [Collection in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
 <kbd>
