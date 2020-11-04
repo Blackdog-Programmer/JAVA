@@ -331,9 +331,13 @@
 ## [00. Methods](https://www.geeksforgeeks.org/methods-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/g-fact-45/">In Java, parameters are always <strong>passed by value</strong></a></li>
+
   <li><a href="https://www.geeksforgeeks.org/returning-multiple-values-in-java/">Returning Multiple values</a></li>
+
   <li><a href="https://www.geeksforgeeks.org/throwable-fillinstacktrace-method-in-java/">Throwable fillInStackTrace()</a></li>
+ 
   <li><a href="https://www.geeksforgeeks.org/valid-variants-main-java/">Valid variants of main()</a></li>
+ 
   <li><a href="https://www.geeksforgeeks.org/variable-arguments-varargs-in-java/">Variable Arguments (Varargs)</a>
     <ul>
       <li>implicitly declared as an array of type</li>
@@ -361,6 +365,8 @@
       <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html">java.lang.Exception</a></li>
     </ul>
   </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/">OutOfMemoryError Exception in Java</a></li>
 </ul>
 
 
