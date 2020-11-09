@@ -373,6 +373,8 @@
   <li><a href="https://www.geeksforgeeks.org/flow-control-in-try-catch-finally-in-java/">Flow control in try catch finally in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/">Types of Exception in Java with Examples</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/g-fact-60/">Catching base and derived classes as exceptions</a></li>
 </ul>
 
 
