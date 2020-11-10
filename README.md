@@ -381,6 +381,8 @@
       <li><a href="https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html">Unchecked Exceptions — The Controversy</a></li>
     </ul>
   </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/throw-throws-java/">throw and throws in Java</a></li>
 </ul>
 
 
