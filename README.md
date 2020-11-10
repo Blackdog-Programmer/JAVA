@@ -376,7 +376,7 @@
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-60/">Catching base and derived classes as exceptions</a></li>
   
-  <li><a href="https://www.geeksforgeeks.org/throw-throws-java/">throw and throws in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/">Checked vs Unchecked Exceptions in Java</a></li>
 </ul>
 
 
