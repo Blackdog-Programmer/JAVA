@@ -376,7 +376,11 @@
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-60/">Catching base and derived classes as exceptions</a></li>
   
-  <li><a href="https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/">Checked vs Unchecked Exceptions in Java</a></li>
+  <li><a href="https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/">Checked vs Unchecked Exceptions in Java</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html">Unchecked Exceptions — The Controversy</a></li>
+    </ul>
+  </li>
 </ul>
 
 
