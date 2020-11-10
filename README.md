@@ -375,6 +375,8 @@
   <li><a href="https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/">Types of Exception in Java with Examples</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-60/">Catching base and derived classes as exceptions</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/throw-throws-java/">throw and throws in Java</a></li>
 </ul>
 
 
