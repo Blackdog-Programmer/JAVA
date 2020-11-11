@@ -387,6 +387,8 @@
   <li><a href="https://www.geeksforgeeks.org/g-fact-32-user-defined-custom-exception-in-java/">User-defined Custom Exception in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/g-fact-33-infinity-or-exception/">Infinity or Exception in Java when divide by 0?</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/multicatch-in-java/">Multicatch in Java</a></li>
 </ul>
 
 
