@@ -383,6 +383,8 @@
   </li>
   
   <li><a href="https://www.geeksforgeeks.org/throw-throws-java/">throw and throws in Java</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/g-fact-32-user-defined-custom-exception-in-java/">User-defined Custom Exception in Java</a></li>
 </ul>
 
 
