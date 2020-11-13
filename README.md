@@ -391,6 +391,8 @@
   <li><a href="https://www.geeksforgeeks.org/multicatch-in-java/">Multicatch in Java</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/chained-exceptions-java/">Chained Exceptions in Java</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/null-pointer-exception-in-java/">Null Pointer Exception In Java</a></li>
 </ul>
 
 
