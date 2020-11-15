@@ -325,7 +325,7 @@
 </ul>
 
 
-## 00. Strings
+## [00. Strings](https://www.geeksforgeeks.org/string-class-in-java/)
 
 
 ## [00. Methods](https://www.geeksforgeeks.org/methods-in-java/)
