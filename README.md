@@ -192,68 +192,9 @@
 </ul>
 
 
-## [07. Object Oriented Programming (OOPs) Concept](https://www.javatpoint.com/java-oops-concepts)
-<kbd>
-  <img src="https://static.javatpoint.com/images/java-oops.png" alt="OOP Concepts">
-</kbd><br><br>
-
+## [07. Object Oriented Programming (OOPs) Concept](https://www.geeksforgeeks.org/classes-objects-java/)
 <ul>
-  <li><a href="https://www.javatpoint.com/object-and-class-in-java">Objects and Classes</a>
-    <ul>
-      <li><a href="https://www.javatpoint.com/java-constructor">Constructors</a></li>
-      <li><a href="https://www.javatpoint.com/this-keyword">this keyword</a></li>
-    </ul>
-  </li>
-
-  <li><a href="https://www.geeksforgeeks.org/polymorphism-in-java/">Polymorphism in Java</a>
-    <ul>
-      <li><a href="https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/">Runtime polymorphism</a></li>
-      <li><a href="https://www.geeksforgeeks.org/overriding-in-java/">Overriding of Methods</a></li>
-    </ul>
-  </li>
-    
-  <li><a href="https://www.geeksforgeeks.org/g-fact-46/">Java object storage in Heap</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/different-ways-create-objects-java/https://www.geeksforgeeks.org/different-ways-create-objects-java/">Different ways to create objects in Java</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/swap-exchange-objects-java/">Wrapper Class to swap or exchange objects in Java</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/encapsulation-in-java/">Encapsulation in Java</a></li>
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation.jpg", alt="Encapsulation Image">
-  
-  <li><a href="https://www.geeksforgeeks.org/abstraction-in-java-2/">Abstraction in Java</a></li>
-  <li>Encapsulation vs Abstarction
-    <ul>
-      <li>Encapsulation is data hiding(information hiding)</li>
-      <li>Abstraction is detail hiding(implementation hiding)</li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/">Runtime Polymorphism - In Java, can override methods only, <strong>not the variables(data members)</strong></a>
-    <ul><a href="https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/">Static vs Dynamic binding</a>
-      <li>Static binding is done during compile-time while dynamic binding is done during run-time.</li>
-      <li>private, final and static methods and variables uses static binding and bonded by compiler while overridden methods are bonded during runtime based upon type of runtime object</li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.geeksforgeeks.org/association-composition-aggregation-java/">Association, Composition and Aggregation</a>
-  <ul>Aggregation vs Composition
-    <li>Dependency: Aggregation implies a relationship where the child can exist independently of the parent.</li>
-    <li>Type of Relationship: Aggregation relation is “has-a” and composition is “part-of” relation.</li>
-    <li>Type of association: Composition is a strong Association whereas Aggregation is a weak Association.</li>
-  </ul>
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/Associatn.png" alt="Assocation Image">
-
-  <li><a href="https://www.geeksforgeeks.org/access-modifiers-java/">Access Modifiers in Java</a></li>
-  <kbd>
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Access-Modifiers-in-Java.png" alt="Access Modifiers in Java Image">
-  </kbd>
-  
-  <li><a href="https://www.geeksforgeeks.org/this-reference-in-java/">‘this’ reference in Java</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/overloading-in-java/">Method Overloading - compile-time (or static) polymorphism</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/">Understanding “static” in “public static void main”</a></li>
+  <li><a href="https://www.geeksforgeeks.org/g-fact-46/">How are Java objects stored in memory?</a></li>
 </ul>
 
 ## [08. Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
