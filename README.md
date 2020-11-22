@@ -132,6 +132,8 @@
       <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html#binarySearch(java.util.List,T)">Collections.binarysearch()</a></li>
     </ul>
   </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/switch-statement-in-java/">Switch Statement in Java</a></li>
 </ul>
 
 ## 03. Input and Output
