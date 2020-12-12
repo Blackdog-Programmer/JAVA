@@ -271,6 +271,8 @@
 ## [00. String](https://www.geeksforgeeks.org/string-class-in-java/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/stringbuffer-class-in-java/">StringBuffer class</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples/">StringBuilder Class</a></li>
 </ul>
 
 ## [00. Methods](https://www.geeksforgeeks.org/methods-in-java/)
